@@ -103,13 +103,13 @@ Before importing the file into Municipal Money, the downloaded file has to be cl
 5. Remove row 100 containing "SIGNED: CITY MANAGER"
 6. Save the file as a csv.
 
-### Adding new quartley file
+### Adding new performance file
 
 1. Click on ADD UPDATE FILE+
 2. Add the financial year.
 3. Add the quarter in which the performance date relates to.
-4. Add the municiplaity, currently only metropolitian areas are shown.
-5. Add the cleaned csv file that was process in the previous section.
+4. Add the municipality, currently only metropolitan areas are shown.
+5. Add the cleaned csv file that was processed in the previous section.
 6. Click on save.
 
 The file will be processed in the background, in could take a few minutes to complete. Once the file has been process, a status will be shown next to the file to show whether it was successfully processed or not.
