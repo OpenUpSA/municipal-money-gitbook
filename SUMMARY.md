@@ -5,5 +5,7 @@
 
 ## Admin Maintenance
 
+* [Capital Projects](admin-maintenance/capital-projects.md)
+* [Household Bills](admin-maintenance/household-bills.md)
 * [Metro Focus](admin-maintenance/metro-focus.md)
 
