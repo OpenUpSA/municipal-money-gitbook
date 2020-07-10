@@ -35,6 +35,7 @@ Install some additional dependencies:
 Extract CSV datasets from Excel Spreadsheets using the following scripts in `municipal_finance/data_import/`
 
 * audit\_opinions.py
+  * Go to the [local government database](https://lg.treasury.gov.za/iworld/default_prov.htm)
   * Budget Document Tracking - Reporting &gt; List Audit Opinion
   * Location Level: Municipality
   * Financial Year End\(s\): Control+Click the four years up to and including the last audit result available
