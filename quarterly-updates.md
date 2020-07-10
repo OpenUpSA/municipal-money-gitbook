@@ -40,6 +40,8 @@ Extract CSV datasets from Excel Spreadsheets using the following scripts in `mun
   * Location Level: Municipality
   * Financial Year End\(s\): Control+Click the four years up to and including the last audit result available
   * Sort Options: By Municipality
+  * Level of Detail: Summary
+  * Demarcation: Current
   * Choose Excel 2000 report format
   * Process Request: The downloaded file has .xls extension but is html - open in libreoffice or excel and save explicitly as .xls again.
 * contact\_details.py
