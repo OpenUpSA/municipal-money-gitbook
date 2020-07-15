@@ -10,7 +10,7 @@
 
 ### Citizens
 
-1. Goal oriented citizen
+1. Goal oriented citizen \(activist?\)
 2. Business owner
 3. Citizen with urgent service failure
 4. Curious citizen \(educator\)
@@ -29,10 +29,14 @@
 
 ## Attributes
 
-* Literacy
+* Literacy \(anti\)
+* Numeracy \(anti\)
+* Connectivity
+* Device access
 * Time available
 * Financial status
 * Network influencer
-* Numeracy
 * Service dependency
+* Public finance familiarity
+* Governance familiarity
 
