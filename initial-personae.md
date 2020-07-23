@@ -13,7 +13,7 @@
 1. Goal oriented citizen \(activist?\)
 2. Business owner
 3. Citizen with urgent service failure
-4. Curious citizen \(educator\)
+4. Inquisitive citizen \(educator\)
 
 ### Representatives
 
