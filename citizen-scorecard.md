@@ -1,3 +1,10 @@
+---
+description: >-
+  This document outlines the various aspects and indicators related to
+  municipalities that will be presented on the citizen scorecard, and how this
+  information is obtained and calculated.
+---
+
 # Citizen Scorecard
 
 ## Overview
