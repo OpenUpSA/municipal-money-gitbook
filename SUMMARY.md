@@ -12,4 +12,5 @@
 ---
 
 * [Initial Personae](initial-personae.md)
+* [Citizen Scorecard](citizen-scorecard.md)
 
