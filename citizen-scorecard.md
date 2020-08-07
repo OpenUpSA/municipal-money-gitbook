@@ -87,9 +87,57 @@ Difference between budgeted operating expenditure and what was actually spent.
 
 ### Spending of capital budget
 
+#### Description
+
+Difference between budgeted capital expenditure and what was actually spent.
+
+#### **Reference**
+
+[Over and under spending reports to parliament](http://mfma.treasury.gov.za/Media_Releases/Reports%20to%20Parliament/Pages/default.aspx)
+
+#### **Source**
+
+**Calculation**
+
+= \(Actual Capital Expenditure - Budgeted Capital Expenditure\) / Budgeted Capital Expenditure
+
+= \(Capital item code 4100, Total Assets, Audited Actual - Capital item code 4100, Total Assets, Adjusted Budget\) / Capital item code 4100, Total Assets, Adjusted Budget
+
 ### Spending on repairs and maintenance
 
+#### **Description**
+
+Spending on Repairs and Maintenance as a percentage of Property, Plant and Equipment.
+
+#### **Reference**
+
+[Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+
+#### **Source**
+
+**Calculation**
+
+= Repairs and maintenance expenditure / \(Property, Plant and Equipment + Investment Property\)
+
+= Capital Acquisition item code 4100, Audited Actual / \(Balance Sheet item code 1300, Audited Actual + Balance Sheet item code 1401, Audited Actual\)
+
 ### Fruitless and wasteful expenditure
+
+#### **Description**
+
+Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of operating expenditure.
+
+#### **Reference**
+
+[Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+
+#### Source
+
+#### Calculation
+
+= Unauthorised, Irregular, Fruitless and Wasteful Expenditure / Actual Operating Expenditure
+
+= Unauthorised, Irregular, Fruitless and Wasteful Expenditure item codes irregular, fruitless, unauthorised / Income & Expenditure item code 4600, Audited Actual
 
 ### Current ratio
 
