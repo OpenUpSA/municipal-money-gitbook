@@ -141,13 +141,79 @@ Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of o
 
 ### Current ratio
 
+#### Description
+
+The value of a municipality's short-term assets as a multiple of its short-term liabilities.
+
+#### Reference
+
+[Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+
+#### Calculation
+
+= Current Assets / Current Liabilities
+
+= Balance Sheet item code 2150, Monthly Actual / Balance Sheet item code 1600, Monthly Actual
+
 ### Liquidity ratio
 
+#### Description
+
+The municipality's immediate ability to pay its current liabilities.
+
+#### Reference
+
+[Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx)
+
+#### Calculation
+
+= \(Cash + Call Investment Deposits\) / Current Liabilities
+
+= Balance Sheet item codes 1800, 2200, Monthly Actual / Balance Sheet item code 1600, Monthly Actual
+
 ### Current debtors collection rate
+
+#### Description
+
+The percentage of new revenue \(generated within the financial year\) that a municipality actually collects.
+
+#### Reference
+
+[Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx)
+
+#### Calculation
+
+= Collected Revenue / Billed Revenue
+
+= Cash Flow item codes 3010, 3020, 3030, 3040, 3050, 3060, 3070, 3100, Monthly Actual / Income and Expenditure item code 0200, 0300, 0400, 1000 less item code 2000, Monthly Actual
 
 ## Income
 
 ## Spending
+
+### Staff wages and salaries
+
+#### Description
+
+Staff salaries and wages as a percentage of operating expenditure.
+
+#### Calculation
+
+= Wages & Salaries + Social Contributions / Actual Operating Expenditure
+
+= Income & Expenditure item codes 3000, 3100, Audited Actual / Income & Expenditure item code 4600, Audited Actual
+
+### Contractor Service
+
+#### Description
+
+Costs of contractor services as a percentage of operating expenditure.
+
+#### Calculation
+
+= Contracted Services / Actual Operating Expenditure
+
+= Income & Expenditure item code 4200, Audited Actual / Income & Expenditure item code 4600, Audited Actual
 
 ## Household bills
 
