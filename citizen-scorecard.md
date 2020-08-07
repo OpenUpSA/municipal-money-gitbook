@@ -17,6 +17,12 @@ description: >-
 
 ## Description
 
+Provenance
+
+1. Municipality submits to Local government Databse
+2. OpenUp Downloads from Local Government Database portal
+3. OpenUp imports to website
+
 ### Mayor
 
 ### Mayoral staff
@@ -28,6 +34,20 @@ description: >-
 ## Evaluative Performance
 
 ### Audit outcomes
+
+Provenance
+
+1. ??Municipality submits to Local government Databse
+2. OpenUp Downloads from Local Government Database portal
+3. OpenUp imports to website
+
+### Audit Reports
+
+Provenance
+
+1. ??Municipality submits to Local government Databse
+2. OpenUp scrapes from mfma.treasury.gov.za
+3. OpenUp imports to website
 
 ### Cash balance
 
@@ -41,11 +61,41 @@ Cash balance at the end of the financial year.
 
 #### Source
 
+standard structured fiscal source
+
+Legacy \(pre-mSCOA\)
+
+* Municipality downloads Excel templates
+* Municipality fills in excel templates
+
+Municipality Finance Manager signs off on filled-in files
+
+Municipality uploads signed-off files to Local Government database portal
+
+??? data gets imported to some SQL database inside Treasury
+
+Snapshot is made of SQL database
+
+CSV extracts are exported from SQL database snapshot
+
+CSV extracts are \[provided to OpenUp project tehcnical lead via dropbox
+
+* OpenUp uploads data to website
+
+**mSCOA process**
+
+* ?? muni has some integration to transfer data to treasury?
+* Treasury aggregates data at the A1 schedule level \(but with multiple dimensions\)
+* aggregates are provided to OpenUp via DropBox
+* OpenUp uploads to website
+
+
+
 #### Calculation
 
 = Cash available at year end
 
-= Cash Flow item code 4200, Audited Actual
+= `Cash Flow` item code `4200`, `Audited Actual`
 
 ### Cash coverage
 
@@ -133,6 +183,13 @@ Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of o
 
 #### Source
 
+Provenance
+
+1. ??Municipality submits to Auditor General??
+2. Project Lead indicates to OpenUp that data is uploaded, checked, and ready to use on Local Government Database portal.
+3. OpenUp Downloads from Local Government Database portal
+4. OpenUp imports to website
+
 #### Calculation
 
 = Unauthorised, Irregular, Fruitless and Wasteful Expenditure / Actual Operating Expenditure
@@ -216,4 +273,12 @@ Costs of contractor services as a percentage of operating expenditure.
 = Income & Expenditure item code 4200, Audited Actual / Income & Expenditure item code 4600, Audited Actual
 
 ## Household bills
+
+
+
+Provenance
+
+1. ???Municipality submits to Local government Databse
+2. Data files emailed to OpenUp project technical lead
+3. OpenUp imports to website
 
