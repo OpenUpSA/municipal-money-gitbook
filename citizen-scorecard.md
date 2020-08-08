@@ -215,7 +215,7 @@ Staff salaries and wages as a percentage of operating expenditure.
 
 = Income & Expenditure item codes 3000, 3100, Audited Actual / Income & Expenditure item code 4600, Audited Actual
 
-### Contractor Service
+### Contractor Services
 
 **Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
@@ -228,6 +228,10 @@ Costs of contractor services as a percentage of operating expenditure.
 = Contracted Services / Actual Operating Expenditure
 
 = Income & Expenditure item code 4200, Audited Actual / Income & Expenditure item code 4600, Audited Actual
+
+### What is money spent on?
+
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
 ## Household bills
 
