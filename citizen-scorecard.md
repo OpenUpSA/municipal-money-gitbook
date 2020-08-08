@@ -19,31 +19,37 @@ description: >-
 
 ### Mayor
 
+Source: Local Government Database
+
 ### Mayoral staff
+
+Source: Local Government Database
 
 ### Contact details
 
+Source: Local Government Database
+
 ### Office location
+
+Source: Local Government Database
 
 ## Evaluative Performance
 
 ### Audit outcomes
 
-Provenance
+Source: Local Government Database
 
-1. ??Municipality submits to Local government Databse
-2. OpenUp Downloads from Local Government Database portal
-3. OpenUp imports to website
+Trigger: Project Lead indicates that data is uploaded, checked, and ready to use.
 
 ### Audit Reports
 
-Provenance
+Source: National Treasury MFMA Portal
 
-1. ??Municipality submits to Local government Databse
-2. OpenUp scrapes from mfma.treasury.gov.za
-3. OpenUp imports to website
+Trigger: Project Lead indicates that data is uploaded, checked, and ready to use.
 
 ### Cash balance
+
+Source: Fiscal Delivery
 
 #### Description
 
@@ -52,38 +58,6 @@ Cash balance at the end of the financial year.
 #### Reference
 
 [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
-
-#### Source
-
-standard structured fiscal source
-
-Legacy \(pre-mSCOA\)
-
-* Municipality downloads Excel templates
-* Municipality fills in excel templates
-
-Municipality Finance Manager signs off on filled-in files
-
-Municipality uploads signed-off files to Local Government database portal
-
-??? data gets imported to some SQL database inside Treasury
-
-Snapshot is made of SQL database
-
-CSV extracts are exported from SQL database snapshot
-
-CSV extracts are \[provided to OpenUp project tehcnical lead via dropbox
-
-* OpenUp uploads data to website
-
-**mSCOA process**
-
-* ?? muni has some integration to transfer data to treasury?
-* Treasury aggregates data at the A1 schedule level \(but with multiple dimensions\)
-* aggregates are provided to OpenUp via DropBox
-* OpenUp uploads to website
-
-
 
 #### Calculation
 
@@ -100,8 +74,6 @@ Months of operating expenses can be paid for with the cash available.
 #### Reference
 
 [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
-
-#### Source
 
 #### Calculation
 
@@ -121,8 +93,6 @@ Difference between budgeted operating expenditure and what was actually spent.
 
 [Over and under spending reports to parliament](http://mfma.treasury.gov.za/Media_Releases/Reports%20to%20Parliament/Pages/default.aspx)
 
-#### Source
-
 #### Calculation
 
 = \(Actual Operating Expenditure - Budget Operating Expenditure\) / Budgeted Operating Expenditure
@@ -138,8 +108,6 @@ Difference between budgeted capital expenditure and what was actually spent.
 #### **Reference**
 
 [Over and under spending reports to parliament](http://mfma.treasury.gov.za/Media_Releases/Reports%20to%20Parliament/Pages/default.aspx)
-
-#### **Source**
 
 **Calculation**
 
@@ -157,8 +125,6 @@ Spending on Repairs and Maintenance as a percentage of Property, Plant and Equip
 
 [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
-#### **Source**
-
 **Calculation**
 
 = Repairs and maintenance expenditure / \(Property, Plant and Equipment + Investment Property\)
@@ -166,6 +132,10 @@ Spending on Repairs and Maintenance as a percentage of Property, Plant and Equip
 = Capital Acquisition item code 4100, Audited Actual / \(Balance Sheet item code 1300, Audited Actual + Balance Sheet item code 1401, Audited Actual\)
 
 ### Fruitless and wasteful expenditure
+
+Source: Local Government Database
+
+Trigger: Project Lead indicates that data is uploaded, checked, and ready to use.
 
 #### **Description**
 
@@ -268,11 +238,5 @@ Costs of contractor services as a percentage of operating expenditure.
 
 ## Household bills
 
-
-
-Provenance
-
-1. ???Municipality submits to Local government Databse
-2. Data files emailed to OpenUp project technical lead
-3. OpenUp imports to website
+Source: Local Government Database
 
