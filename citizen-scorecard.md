@@ -17,12 +17,6 @@ description: >-
 
 ## Description
 
-Provenance
-
-1. Municipality submits to Local government Databse
-2. OpenUp Downloads from Local Government Database portal
-3. OpenUp imports to website
-
 ### Mayor
 
 ### Mayoral staff
