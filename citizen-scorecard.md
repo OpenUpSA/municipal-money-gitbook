@@ -15,51 +15,49 @@ description: >-
 
 ### Basic demographics
 
-Source: [Census](data-sources.md#census)
+**Source:** [Census](data-sources.md#census)
 
 ## Description
 
 ### Mayor
 
-Source: [Local Government Database](data-sources.md#local-government-database)
+**Source:** [Local Government Database](data-sources.md#local-government-database)
 
 ### Mayoral staff
 
-Source: [Local Government Database](data-sources.md#local-government-database)
+**Source:** [Local Government Database](data-sources.md#local-government-database)
 
 ### Contact details
 
-Source: [Local Government Database](data-sources.md#local-government-database)
+**Source:** [Local Government Database](data-sources.md#local-government-database)
 
 ### Office location
 
-Source: [Local Government Database](data-sources.md#local-government-database)
+**Source:** [Local Government Database](data-sources.md#local-government-database)
 
 ## Evaluative Performance
 
 ### Audit outcomes
 
-Source: [Local Government Database](data-sources.md#local-government-database)
+**Source:** [Local Government Database](data-sources.md#local-government-database)
 
-Trigger: Project Lead indicates that data is uploaded, checked, and ready to use.
+**Trigger:** Project Lead indicates that data is uploaded, checked, and ready to use.
 
 ### Audit Reports
 
-Source: [National Treasury MFMA Portal](data-sources.md#national-treasury-mfma-portal)
+**Source:** [National Treasury MFMA Portal](data-sources.md#national-treasury-mfma-portal)
 
-Trigger: Project Lead indicates that data is uploaded, checked, and ready to use.
+**Trigger:** Project Lead indicates that data is uploaded, checked, and ready to use.
 
 ### Cash balance
 
-Source: [Fiscal Delivery](data-sources.md#fiscal-delivery)
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
+**Reference:** [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
 
 #### Description
 
 Cash balance at the end of the financial year.
-
-#### Reference
-
-[State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
 
 #### Calculation
 
@@ -69,13 +67,13 @@ Cash balance at the end of the financial year.
 
 ### Cash coverage
 
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
+**Reference:** [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
+
 #### Description
 
 Months of operating expenses can be paid for with the cash available.
-
-#### Reference
-
-[State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
 
 #### Calculation
 
@@ -87,13 +85,13 @@ If Cash available at year end is negative, we say Cash Coverage is zero months.
 
 ### Spending of operating budget
 
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
+**Reference:** [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
+
 #### Description
 
 Difference between budgeted operating expenditure and what was actually spent.
-
-#### Reference
-
-[Over and under spending reports to parliament](http://mfma.treasury.gov.za/Media_Releases/Reports%20to%20Parliament/Pages/default.aspx)
 
 #### Calculation
 
@@ -103,13 +101,13 @@ Difference between budgeted operating expenditure and what was actually spent.
 
 ### Spending of capital budget
 
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
+**Reference:** [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
+
 #### Description
 
 Difference between budgeted capital expenditure and what was actually spent.
-
-#### **Reference**
-
-[Over and under spending reports to parliament](http://mfma.treasury.gov.za/Media_Releases/Reports%20to%20Parliament/Pages/default.aspx)
 
 **Calculation**
 
@@ -119,13 +117,13 @@ Difference between budgeted capital expenditure and what was actually spent.
 
 ### Spending on repairs and maintenance
 
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
+**Reference:** [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+
 #### **Description**
 
 Spending on Repairs and Maintenance as a percentage of Property, Plant and Equipment.
-
-#### **Reference**
-
-[Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 **Calculation**
 
@@ -135,17 +133,15 @@ Spending on Repairs and Maintenance as a percentage of Property, Plant and Equip
 
 ### Fruitless and wasteful expenditure
 
-Source: Local Government Database
+**Source:** [Local Government Database](data-sources.md#local-government-database)
 
-Trigger: Project Lead indicates that data is uploaded, checked, and ready to use.
+**Trigger:** Project Lead indicates that data is uploaded, checked, and ready to use.
+
+**Reference:** [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### **Description**
 
 Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of operating expenditure.
-
-#### **Reference**
-
-[Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Calculation
 
@@ -155,13 +151,13 @@ Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of o
 
 ### Current ratio
 
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
+**Reference:** [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+
 #### Description
 
 The value of a municipality's short-term assets as a multiple of its short-term liabilities.
-
-#### Reference
-
-[Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Calculation
 
@@ -171,13 +167,13 @@ The value of a municipality's short-term assets as a multiple of its short-term 
 
 ### Liquidity ratio
 
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
+**Reference:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx)
+
 #### Description
 
 The municipality's immediate ability to pay its current liabilities.
-
-#### Reference
-
-[Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx)
 
 #### Calculation
 
@@ -187,13 +183,13 @@ The municipality's immediate ability to pay its current liabilities.
 
 ### Current debtors collection rate
 
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
+**Reference:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx)
+
 #### Description
 
 The percentage of new revenue \(generated within the financial year\) that a municipality actually collects.
-
-#### Reference
-
-[Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx)
 
 #### Calculation
 
