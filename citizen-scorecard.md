@@ -203,6 +203,8 @@ The percentage of new revenue \(generated within the financial year\) that a mun
 
 ### Staff wages and salaries
 
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
+
 #### Description
 
 Staff salaries and wages as a percentage of operating expenditure.
@@ -214,6 +216,8 @@ Staff salaries and wages as a percentage of operating expenditure.
 = Income & Expenditure item codes 3000, 3100, Audited Actual / Income & Expenditure item code 4600, Audited Actual
 
 ### Contractor Service
+
+**Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
 #### Description
 
