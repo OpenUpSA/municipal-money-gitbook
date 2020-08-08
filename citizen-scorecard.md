@@ -15,41 +15,43 @@ description: >-
 
 ### Basic demographics
 
+Source: [Census](data-sources.md#census)
+
 ## Description
 
 ### Mayor
 
-Source: Local Government Database
+Source: [Local Government Database](data-sources.md#local-government-database)
 
 ### Mayoral staff
 
-Source: Local Government Database
+Source: [Local Government Database](data-sources.md#local-government-database)
 
 ### Contact details
 
-Source: Local Government Database
+Source: [Local Government Database](data-sources.md#local-government-database)
 
 ### Office location
 
-Source: Local Government Database
+Source: [Local Government Database](data-sources.md#local-government-database)
 
 ## Evaluative Performance
 
 ### Audit outcomes
 
-Source: Local Government Database
+Source: [Local Government Database](data-sources.md#local-government-database)
 
 Trigger: Project Lead indicates that data is uploaded, checked, and ready to use.
 
 ### Audit Reports
 
-Source: National Treasury MFMA Portal
+Source: [National Treasury MFMA Portal](data-sources.md#national-treasury-mfma-portal)
 
 Trigger: Project Lead indicates that data is uploaded, checked, and ready to use.
 
 ### Cash balance
 
-Source: Fiscal Delivery
+Source: [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
 #### Description
 
@@ -145,15 +147,6 @@ Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of o
 
 [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
-#### Source
-
-Provenance
-
-1. ??Municipality submits to Auditor General??
-2. Project Lead indicates to OpenUp that data is uploaded, checked, and ready to use on Local Government Database portal.
-3. OpenUp Downloads from Local Government Database portal
-4. OpenUp imports to website
-
 #### Calculation
 
 = Unauthorised, Irregular, Fruitless and Wasteful Expenditure / Actual Operating Expenditure
@@ -238,5 +231,5 @@ Costs of contractor services as a percentage of operating expenditure.
 
 ## Household bills
 
-Source: Local Government Database
+Source: [Local Government Database](data-sources.md#local-government-database)
 
