@@ -14,4 +14,5 @@
 * [Initial Personae](initial-personae.md)
 * [Citizen Scorecard](citizen-scorecard.md)
 * [Data Sources](data-sources.md)
+* [Development Operations](development-operations.md)
 
