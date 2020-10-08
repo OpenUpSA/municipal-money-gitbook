@@ -51,8 +51,7 @@ Extract CSV datasets from Excel Spreadsheets using the following scripts in `mun
   * Choose the relevant roles in the 'Column Selection Form' field.
   * Choose 'BY Municipality' in the 'Sort Options' field.
   * Choose Excel 2000 report format
-  * Download report, open in excel, save as xlsx \(the website gives HTML in .xls\)
-  * Process Request: The downloaded file has .xls extension but is html - open in libreoffice or excel and save explicitly as .xls again.
+  * Download report, open in Google Drive, convert to Google Sheets format and save as xlsx \(the website gives HTML in .xls\)
 * uifw\_expenditure.py
   * input files like [01. Irregular Expenditures - Master 04 December 2014](http://mfma.treasury.gov.za/Media_Releases/mbi/2014/Documents/G.%20Additional%20information)
 
