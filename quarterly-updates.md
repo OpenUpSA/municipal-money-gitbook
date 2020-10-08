@@ -47,8 +47,9 @@ Extract CSV datasets from Excel Spreadsheets using the following scripts in `mun
 * contact\_details.py
   * Go to the [local government database](https://lg.treasury.gov.za/iworld/default_prov.htm)
   * Contacts - Reporting &gt; General Information - Municipalities Individuals
-  * Choose Municipal level
-  * Choose relevant roles
+  * Choose 'Municipality' in the 'Location Level' field.
+  * Choose the relevant roles in the 'Column Selection Form' field.
+  * Choose 'BY Municipality' in the 'Sort Options' field.
   * Choose Excel 2000 report format
   * Download report, open in excel, save as xlsx \(the website gives HTML in .xls\)
   * Process Request: The downloaded file has .xls extension but is html - open in libreoffice or excel and save explicitly as .xls again.
