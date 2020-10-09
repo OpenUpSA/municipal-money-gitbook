@@ -17,4 +17,5 @@
 * [Development Operations](development-operations.md)
 * [Resources](resources.md)
 * [Administrator's Guide](administrators-guide.md)
+* [Principles](principles.md)
 
