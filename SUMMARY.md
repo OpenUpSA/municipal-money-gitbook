@@ -16,4 +16,5 @@
 * [Data Sources](data-sources.md)
 * [Development Operations](development-operations.md)
 * [Resources](resources.md)
+* [Administrator's Guide](administrators-guide.md)
 
