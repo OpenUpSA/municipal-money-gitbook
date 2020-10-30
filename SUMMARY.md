@@ -14,8 +14,11 @@
 * [Initial Personae](initial-personae.md)
 * [Citizen Scorecard](citizen-scorecard.md)
 * [Data Sources](data-sources.md)
-* [Development Operations](development-operations.md)
 * [Resources](resources.md)
 * [Administrator's Guide](administrators-guide.md)
 * [Principles](principles.md)
+
+## Development and DevOps
+
+* [Development Operations](development-and-devops/development-operations.md)
 
