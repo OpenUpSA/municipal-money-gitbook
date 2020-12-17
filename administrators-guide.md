@@ -1,5 +1,23 @@
 # Administrator's Guide
 
+## Logging in
+
+All the other sections of this guide will assume that you've already logged in to the admin interface using valid credentials with the appropriate rights for managing and updating data. If you don't have the required credentials or rights please contact the administrator.
+
+In order to login navigate to the following URL using your browser of choice: [https://municipalmoney.gov.za/admin](https://municipalmoney.gov.za/admin)
+
+You will then be presented with the following login form where you can enter your provided username and password:
+
+![](.gitbook/assets/login.png)
+
+## Managing data
+
+## Updating general data
+
+## Updating fiscal data
+
+## Compiling municipal profiles
+
 ## Updating Municipality Contacts
 
 ### 1. Obtain data in the appropriate format
