@@ -10,7 +10,35 @@ You will then be presented with the following login form where you can enter you
 
 ![](.gitbook/assets/login.png)
 
+After having logged in successfully you will be presented with the home page of the administration site which should look similar to the following:
+
+![](.gitbook/assets/screenshot-2020-12-18-at-11.17.19.png)
+
 ## Managing data
+
+The administration interface provides functionality for directly managing the following data:
+
+* Geographies
+* Demarcation Changes
+* Aged Creditor Items \(v2\)
+* Aged Debtor Items \(v2\)
+* Cash Flow Items \(v2\)
+* Income & Expenditure Items \(v2\)
+* Capital Types \(v2\)
+* Financial Position Items \(v2\)
+* Government Functions \(v2\)
+* Grant Types \(v2\)
+* Repairs & Maintenance Items \(v2\)
+
+These types of data will al have an item available on the home page of the administration site. Let's use 'Aged Creditor Items \(v2\)' as an example.
+
+To see a list of all the items we have in the database we can click on the link that is listed on the home page:
+
+![](.gitbook/assets/screenshot-2020-12-18-at-13.14.21.png)
+
+Once clicked the management interface for 'Aged Creditor Items \(v2\)' will be displayed. This provides a listing, as well as options for adding, removing or editing items. Options are also provided for importing or exporting the entire collection as can be seen by the 'Import' and 'Export' button at the top of the page:
+
+![](.gitbook/assets/screenshot-2020-12-18-at-13.19.16.png)
 
 ## Updating general data
 
