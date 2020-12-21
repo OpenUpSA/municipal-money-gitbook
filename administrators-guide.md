@@ -1,5 +1,17 @@
 # Administrator's Guide
 
+## Overview
+
+This guide provides instructions both for updating the various types of data the is made available by the Municipal Money platform, as well as updating the contents of the compiled information for Municipal Profiles listed on the site.
+
+For the purposes of this guide the data that can be managed using the administrative interface is split up into three types:
+
+* Individual records
+* Dimensional data
+* Fiscal data
+
+Updating any of these types of data will immediately affect the data that is available on the platform, but these changes will however not reflect on the Municipal Profiles listed on the site until a re-compilation of the Municipal Profiles is manually triggered, as demonstrated in the 'Compiling Municipal Profiles' section of this guide.
+
 ## Logging in
 
 All the other sections of this guide will assume that you've already logged in to the admin interface using valid credentials with the appropriate rights for managing and updating data. If you don't have the required credentials or rights please contact the administrator.
@@ -14,7 +26,11 @@ After having logged in successfully you will be presented with the home page of 
 
 ![](.gitbook/assets/screenshot-2020-12-18-at-11.17.19.png)
 
-## Managing data
+## Managing individual records
+
+
+
+## Managing dimensional data
 
 The administration interface provides functionality for directly managing the following data:
 
@@ -39,8 +55,6 @@ To see a list of all the items we have in the database we can click on the link 
 Once clicked the management interface for 'Aged Creditor Items \(v2\)' will be displayed. This provides a listing, as well as options for adding, removing or editing items. Options are also provided for importing or exporting the entire collection as can be seen by the 'Import' and 'Export' button at the top of the page:
 
 ![](.gitbook/assets/screenshot-2020-12-18-at-13.19.16.png)
-
-## Updating general data
 
 ## Updating fiscal data
 
