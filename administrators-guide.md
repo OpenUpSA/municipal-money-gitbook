@@ -92,6 +92,33 @@ Once the the selections are made and the 'SUBMIT' button is clicked you will be 
 
 ## Updating fiscal data
 
+The administrative interface also provides the option for updating the following fiscal data:
+
+* Aged Creditor Facts \(v2\)
+* Aged Debtor Facts \(v2\)
+* Audit Opinion Facts
+* Capital Facts \(v2\)
+* Cash Flow Facts \(v2\)
+* Financial Position Facts \(v2\)
+* Grant Facts \(v2\)
+* Income & Expenditure Facts \(v2\)
+* Repairs & Maintenance Facts \(v2\)
+* UIFW Expense Facts
+
+Unlike the data types mentioned before, these data types don't provide functionality for editing or creating individual records, and can only be updated in bulk by providing the appropriate CSV format.
+
+We can see a list of the updates that have been provided by selecting the appropriate item from the listing on the administration home page. The name of the item would begin with the name of the data type and then be appended with the word 'Updates'. Let's use 'Aged Creditor Facts \(v2\) Updates' as an example.
+
+![](.gitbook/assets/screenshot-2020-12-21-at-11.05.58.png)
+
+Here we can see the 'Aged Creditor Facts \(v2\) Updates' item as it's listed on the home page. Once we click on it we will be presented with a list of of updates that have been applied to the 'Aged Creditor Facts \(v2\)' data in the past.
+
+![](.gitbook/assets/screenshot-2020-12-21-at-11.08.39.png)
+
+
+
+
+
 ## Compiling municipal profiles
 
 ## Updating Municipality Contacts
