@@ -136,9 +136,15 @@ NMA,2018AUDA,31791016,0,0,0,0,0,0,0,31791016,2018,year,2018,3,3
 
 Once the file is selected and the 'SAVE' button is clicked you will once again be presented with the list of recent updates, which should now include your latest update.
 
+{% hint style="info" %}
+Note that saving this new update can take quite a bit of time if the update file size is large. Be sure to give the browser a chance to upload the file, keeping the browser open and not navigating away from the loading page. 
+{% endhint %}
+
 ![](.gitbook/assets/screenshot-2020-12-21-at-14.23.39.png)
 
 After the creation of the new update, you should initially see that there is a placeholder value displayed in the place where the amount of deleted and inserted records will be displayed. These values will be populated once the update has completed.
+
+Creating a new update starts off a task on the backend that processes the update. Refer to the 'Checking task status' chapter of this guide to find out more.
 
 ## Compiling municipal profiles
 
