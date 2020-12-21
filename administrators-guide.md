@@ -18,24 +18,36 @@ All the other sections of this guide will assume that you've already logged in t
 
 In order to login navigate to the following URL using your browser of choice: [https://municipalmoney.gov.za/admin](https://municipalmoney.gov.za/admin)
 
-You will then be presented with the following login form where you can enter your provided username and password:
+You will then be presented with the following login form where you can enter your provided username and password.
 
 ![](.gitbook/assets/login.png)
 
-After having logged in successfully you will be presented with the home page of the administration site which should look similar to the following:
+After having logged in successfully you will be presented with the home page of the administration site which should look similar to the following.
 
 ![](.gitbook/assets/screenshot-2020-12-18-at-11.17.19.png)
 
 ## Managing individual records
 
+Functionality is provided for managing individual records of the following data:
 
+* Geographies
+* Demarcation Changes
+* Municipal Staff Contacts
+
+In order to see a list of the available records for one of these types, we need to click on the appropriate name of the data type listed on the administration home page. Let's use 'Geographies' as an example.
+
+![](.gitbook/assets/screenshot-2020-12-21-at-10.01.17.png)
+
+Here we see the 'Geographies' item as it's listed on the home page. Once we've click on it we will be presented with a list of the available records.
+
+![](.gitbook/assets/screenshot-2020-12-21-at-10.06.54.png)
+
+From the listing screen we have the option of either creating a new record, using the 'ADD GEOGRAPHY' button, or viewing editing an existing record by clicking on one of the listed items.
 
 ## Managing dimensional data
 
 The administration interface provides functionality for directly managing the following data:
 
-* Geographies
-* Demarcation Changes
 * Aged Creditor Items \(v2\)
 * Aged Debtor Items \(v2\)
 * Cash Flow Items \(v2\)
