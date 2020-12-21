@@ -38,7 +38,7 @@ In order to see a list of the available records for one of these types, we need 
 
 ![](.gitbook/assets/screenshot-2020-12-21-at-10.01.17.png)
 
-Here we see the 'Geographies' item as it's listed on the home page. Once we've click on it we will be presented with a list of the available records.
+Here we see the 'Geographies' item as it's listed on the home page. Once we click on it we will be presented with a list of the available records.
 
 ![](.gitbook/assets/screenshot-2020-12-21-at-10.06.54.png)
 
@@ -46,7 +46,7 @@ From the listing screen we have the option of either creating a new record, usin
 
 ## Managing dimensional data
 
-The administration interface provides functionality for directly managing the following data:
+The administration interface provides functionality for managing the following dimensional data:
 
 * Aged Creditor Items \(v2\)
 * Aged Debtor Items \(v2\)
@@ -58,15 +58,37 @@ The administration interface provides functionality for directly managing the fo
 * Grant Types \(v2\)
 * Repairs & Maintenance Items \(v2\)
 
-These types of data will al have an item available on the home page of the administration site. Let's use 'Aged Creditor Items \(v2\)' as an example.
+This form of data has all the functionality that is available to individual records \(create and edit\), but is mostly encouraged to be edited in bulk by making use of the import/export functionality.
 
-To see a list of all the items we have in the database we can click on the link that is listed on the home page:
+In order to see a list of the available records and options for one of these types, we need to click on the appropriate name of the data type listed on the administration home page. Let's use 'Aged Creditor Items \(v2\)' as an example.
 
 ![](.gitbook/assets/screenshot-2020-12-18-at-13.14.21.png)
 
-Once clicked the management interface for 'Aged Creditor Items \(v2\)' will be displayed. This provides a listing, as well as options for adding, removing or editing items. Options are also provided for importing or exporting the entire collection as can be seen by the 'Import' and 'Export' button at the top of the page:
+Here we can see the 'Aged Creditor Items \(v2\)' item as it's listed on the home page. Once we click on it we will be presented with a list of records that is currently stored on the database.
 
 ![](.gitbook/assets/screenshot-2020-12-18-at-13.19.16.png)
+
+As with individual records, we can edit and create records of 'Aged Creditor Items \(v2\)' data type from this screen. Since this data will mostly be provided in a file that we would prefer to upload in bulk, we'll look into the import function by clicking the 'IMPORT' button.
+
+![](.gitbook/assets/screenshot-2020-12-21-at-10.36.48.png)
+
+On this page we can select the file containing the data we wish to replace ALL our records with, along with it's format. We are also presented with the fields that are expected for each of the records.
+
+Here is an example of a CSV file with acceptable data for this data type:
+
+```text
+code,label,position_in_return_form,return_form_structure,composition
+0100,Bulk Electricity,1,line_item,
+0200,Bulk Water,2,line_item,
+0300,PAYE deductions,3,line_item,
+0400,VAT (output less input),4,line_item,
+0500,Pensions / Retirement deductions,5,line_item,
+0600,Loan repayments,6,line_item,
+```
+
+Once the the selections are made and the 'SUBMIT' button is clicked you will be presented on details of the import you are attempting, and will be asked if you would like to continue with the import.
+
+![](.gitbook/assets/screenshot-2020-12-21-at-10.43.26.png)
 
 ## Updating fiscal data
 
