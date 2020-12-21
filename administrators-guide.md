@@ -115,9 +115,30 @@ Here we can see the 'Aged Creditor Facts \(v2\) Updates' item as it's listed on 
 
 ![](.gitbook/assets/screenshot-2020-12-21-at-11.08.39.png)
 
+If we want to update the 'Aged Creditor Facts \(v2\)' data, we can do so by adding a new 'Update' record by clicking the 'ADD AGED CREDITOR FACTS \(V2\) UPDATE' button on the top right. You will then be presented with a screen where the file containing the update data can be specified.
 
+![](.gitbook/assets/screenshot-2020-12-21-at-14.17.29.png)
 
+The following is an example of a valid update file for the 'Aged Creditor Facts \(v2\)' data:
 
+```text
+demarcation_code,period_code,g1_amount,l1_amount,l120_amount,l150_amount,l180_amount,l30_amount,l60_amount,l90_amount,total_amount,financial_year,period_length,financial_period,amount_type,item
+CPT,2018AUDA,-1058474965,0,0,0,0,0,0,0,-1058474965,2018,year,2018,3,1
+CPT,2018AUDA,-29195947,0,0,0,0,0,0,0,-29195947,2018,year,2018,3,2
+CPT,2018AUDA,-32253,0,0,0,0,0,0,0,-32253,2018,year,2018,3,3
+JHB,2018AUDA,0,0,0,0,0,0,1352620000,0,1352620000,2018,year,2018,3,1
+JHB,2018AUDA,0,0,0,0,0,0,0,0,0,2018,year,2018,3,2
+JHB,2018AUDA,0,0,0,0,0,0,0,0,0,2018,year,2018,3,3
+NMA,2018AUDA,182407,0,0,0,0,0,0,0,182407,2018,year,2018,3,1
+NMA,2018AUDA,0,0,0,0,0,0,0,0,0,2018,year,2018,3,2
+NMA,2018AUDA,31791016,0,0,0,0,0,0,0,31791016,2018,year,2018,3,3
+```
+
+Once the file is selected and the 'SAVE' button is clicked you will once again be presented with the list of recent updates, which should now include your latest update.
+
+![](.gitbook/assets/screenshot-2020-12-21-at-14.23.39.png)
+
+After the creation of the new update, you should initially see that there is a placeholder value displayed in the place where the amount of deleted and inserted records will be displayed. These values will be populated once the update has completed.
 
 ## Compiling municipal profiles
 
