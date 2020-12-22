@@ -170,7 +170,28 @@ We should now be redirected back to the page listing all the previous compilatio
 
 Creating a new 'Municipality Profile Compilation' will start a task on the backend that processes the compilation. Refer to the 'Checking task status' chapter of this guide to find out more about tasks.
 
-## Checking task status
+## Checking background task status
+
+There are various circumstances in which lengthy operations need to run in the background. There two cases that have been mentioned earlier in this guide:
+
+* Updating fiscal data
+* Compiling municipal profiles
+
+After initiating either of these actions a task will be started in the background. To view tasks that are currently running in the background we can navigate to the 'Queued tasks' section of the administration interface.
+
+![](.gitbook/assets/screenshot-2020-12-22-at-09.07.29.png)
+
+Here we have the 'Queued tasks' item as its listed on the home page. Clicking on this link should present us with a list of tasks that are currently being processed.
+
+![](.gitbook/assets/screenshot-2020-12-22-at-09.07.04.png)
+
+We can get an idea of the task that is running by looking in the 'NAME' column of the task. In this case we have a 'Municipal Profile Compilation' running.
+
+Tasks that have completed will be removed from this list and will be moved to the 'Successful tasks' section. Navigating to this section from the home page will list all the successful tasks that was completed in the past.
+
+![](.gitbook/assets/screenshot-2020-12-22-at-09.15.40.png)
+
+From this list we can see that the last task that was successfully completed was a 'Aged Creditor Facts \(v2\) update' task.
 
 ## System wide configurations
 
