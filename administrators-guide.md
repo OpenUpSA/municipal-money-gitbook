@@ -148,6 +148,8 @@ Creating a new update starts off a task on the backend that processes the update
 
 ## Compiling municipal profiles
 
+## Checking task status
+
 ## Updating Municipality Contacts
 
 ### 1. Obtain data in the appropriate format
