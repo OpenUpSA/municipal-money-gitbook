@@ -58,7 +58,7 @@ The administration interface provides functionality for managing the following d
 * Grant Types \(v2\)
 * Repairs & Maintenance Items \(v2\)
 
-This form of data has all the functionality that is available to individual records \(create and edit\), but is mostly encouraged to be edited in bulk by making use of the import/export functionality.
+This type of data has all the functionality that is available to individual records \(create and edit\), but is mostly encouraged to be edited in bulk by making use of the import/export functionality.
 
 In order to see a list of the available records and options for one of these types, we need to click on the appropriate name of the data type listed on the administration home page. Let's use 'Aged Creditor Items \(v2\)' as an example.
 
@@ -144,11 +144,35 @@ Note that saving this new update can take quite a bit of time if the update file
 
 After the creation of the new update, you should initially see that there is a placeholder value displayed in the place where the amount of deleted and inserted records will be displayed. These values will be populated once the update has completed.
 
-Creating a new update starts off a task on the backend that processes the update. Refer to the 'Checking task status' chapter of this guide to find out more.
+Creating a new update starts off a task on the backend that processes the update. Refer to the 'Checking task status' chapter of this guide to find out more about tasks.
 
 ## Compiling municipal profiles
 
+In order for the data made available by the Municipal Money platform to be displayed on the Municipal Profiles displayed on the site, a 'Municipal Profile Compilation' has to be initiated.
+
+To see a list of previous compilations that were initiated, we can click on the appropriate item in on the home page.
+
+![](.gitbook/assets/screenshot-2020-12-22-at-07.54.09.png)
+
+Once we've click on the 'Municipality Profile Compilations' item, we will presented with a page where we can see previous compilations and create new ones.
+
+![](.gitbook/assets/screenshot-2020-12-22-at-07.56.26.png)
+
+Here we have a list of previous compilations, ordered by date, and an indication to the users that initiated the compilation and the periods that were targeted as the focus of the compilation. From this page we can make use of the 'ADD MUNICIPALITY PROFILE COMPILATION' button to initiate a new compilation.
+
+![](.gitbook/assets/screenshot-2020-12-22-at-08.00.50.png)
+
+At this point we can indicate the years that we would like to target during the compilation, with defaults provided from the system wide settings discussed in the 'System wide configurations' chapter. Once we're happy with the years that we'd like to target we can initiate the compilation by clicking the 'SAVE' button.
+
+![](.gitbook/assets/screenshot-2020-12-22-at-08.07.23.png)
+
+We should now be redirected back to the page listing all the previous compilations, and our newly created compilation should now be included on the list.
+
+Creating a new 'Municipality Profile Compilation' will start a task on the backend that processes the compilation. Refer to the 'Checking task status' chapter of this guide to find out more about tasks.
+
 ## Checking task status
+
+## System wide configurations
 
 ## Updating Municipality Contacts
 
