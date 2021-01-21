@@ -115,8 +115,8 @@ Difference between budgeted capital expenditure and what was actually spent.
 **Calculation**
 
 ```text
-= (Actual Capital Expenditure - Budgeted Capital Expenditure) / Budgeted Capital Expenditure
-= ([Capital] item code 4100, Total Assets, Audited Actual - [Capital] item code 4100, Total Assets, Adjusted Budget) / [Capital] item code 4100, Total Assets, Adjusted Budget
+= ((Actual Capital Expenditure - Budgeted Capital Expenditure) / Budgeted Capital Expenditure) * 100
+= (([Capital] item code 4100, Total Assets, Audited Actual - [Capital] item code 4100, Total Assets, Adjusted Budget) / [Capital] item code 4100, Total Assets, Adjusted Budget) * 100
 ```
 
 ### Spending on repairs and maintenance
