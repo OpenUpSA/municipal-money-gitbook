@@ -169,7 +169,7 @@ The value of a municipality's short-term assets as a multiple of its short-term 
 
 ```text
 = Current Assets / Current Liabilities
-= [Balance Sheet] item code 2150, Monthly Actual / [Balance Sheet] item code 1600, Monthly Actual
+= [Balance Sheet] item code 2150, Audited Actual / [Balance Sheet] item code 1600, Audited Actual
 ```
 
 ### Liquidity ratio
@@ -186,7 +186,7 @@ The municipality's immediate ability to pay its current liabilities.
 
 ```text
 = (Cash + Call Investment Deposits) / Current Liabilities
-= [Balance Sheet] item codes 1800, 2200, Monthly Actual / [Balance Sheet] item code 1600, Monthly Actual
+= [Balance Sheet] item codes 1800, 2200, Audited Actual / [Balance Sheet] item code 1600, Audited Actual
 ```
 
 ### Current debtors collection rate
@@ -203,7 +203,7 @@ The percentage of new revenue \(generated within the financial year\) that a mun
 
 ```text
 = Collected Revenue / Billed Revenue
-= [Cash Flow] item codes 3010, 3020, 3030, 3040, 3050, 3060, 3070, 3100, Monthly Actual / [Income and Expenditure] item code 0200, 0300, 0400, 1000 less item code 2000, Monthly Actual
+= [Cash Flow] item codes 3010, 3020, 3030, 3040, 3050, 3060, 3070, 3100, Audited Actual / [Income and Expenditure] item code 0200, 0300, 0400, 1000 less item code 2000, Audited Actual
 ```
 
 ## Income
