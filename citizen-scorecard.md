@@ -70,9 +70,7 @@ Cash balance at the end of the financial year.
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**Reference:** [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
-
-**Calculation Reference:** [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**References:** [State of Local Government Finances (page 10 - Indicator 2)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 (ipage 7 - Section C.1)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Description
 
@@ -161,7 +159,8 @@ Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of o
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**Reference:** [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**References:** [Circular 71 (page 7 - Section C.2)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx), [State of Local Government Finances (page 24 - Indicator 12)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
+
 
 #### Description
 
@@ -178,7 +177,7 @@ The value of a municipality's short-term assets as a multiple of its short-term 
 
 **Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**Reference:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx)
+**References:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx), [State of Local Government Finances (page 19 - Indicator 8)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
 
 #### Description
 
@@ -195,7 +194,7 @@ The municipality's immediate ability to pay its current liabilities.
 
 **Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**Reference:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx)
+**References:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx), [Circular 71 (page 5 - SectionB.1)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Description
 
