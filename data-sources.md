@@ -10,6 +10,8 @@ Preliminary outcome \(PAUD\) - Provided to auditors, but not yet processed and c
 
 Audited actual \(AUDA\) - Processed and confirmed by auditors
 
+In-year actual \(M01 - M12\) - Provided by municipality, not yet confirmed by auditors
+
 ## Census
 
 ## Fiscal Delivery
