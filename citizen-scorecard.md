@@ -70,7 +70,7 @@ Cash balance at the end of the financial year.
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**References:** [State of Local Government Finances (page 10 - Indicator 2)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 (ipage 7 - Section C.1)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**References:** [State of Local Government Finances for 16 Oct 2019 (page 10 - Indicator 2)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 (page 7 - Section C.1)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Description
 
@@ -89,7 +89,7 @@ If Cash available at year end is negative, we say Cash Coverage is zero months.
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**Reference:** [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
+**References:** N/A
 
 #### Description
 
@@ -98,15 +98,15 @@ Difference between budgeted operating expenditure and what was actually spent.
 #### Calculation
 
 ```text
-= (Actual Operating Expenditure - Budget Operating Expenditure) / Budgeted Operating Expenditure
-= ([Income & Expenditure] item code 4600, Audited Actual - [Income & Expenditure] item code 4600, Adjusted Budget) / [Income & Expenditure] item code 4600, Adjusted Budget
+= ((Actual Operating Expenditure - Budget Operating Expenditure) / Budgeted Operating Expenditure) * 100
+= (([Income & Expenditure] item code 4600, Audited Actual - [Income & Expenditure] item code 4600, Adjusted Budget) / [Income & Expenditure] item code 4600, Adjusted Budget) * 100
 ```
 
 ### Spending of capital budget
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**Reference:** [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
+**References:** [Circular 71 (page 20 - Section 3.2)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Description
 
@@ -123,7 +123,7 @@ Difference between budgeted capital expenditure and what was actually spent.
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**Reference:** [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**Reference:** [State of Local Government Finances for 16 Oct 2019 (page 14 - Indicator 4)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 (page 4 - Section 1.A.3)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### **Description**
 
@@ -132,8 +132,8 @@ Spending on Repairs and Maintenance as a percentage of Property, Plant and Equip
 **Calculation**
 
 ```text
-= Repairs and maintenance expenditure / (Property, Plant and Equipment + Investment Property)
-= [Capital] item code 4100, Audited Actual / ([Balance Sheet] item code 1300, Audited Actual + [Balance Sheet] item code 1401, Audited Actual)
+= (Repairs and maintenance expenditure / (Property, Plant and Equipment + Investment Property)) * 100
+= ([Capital] item code 4100, Audited Actual / ([Balance Sheet] item code 1300, Audited Actual + [Balance Sheet] item code 1401, Audited Actual)) * 100
 ```
 
 ### Fruitless and wasteful expenditure
@@ -142,7 +142,7 @@ Spending on Repairs and Maintenance as a percentage of Property, Plant and Equip
 
 **Trigger:** Project Lead indicates that data is uploaded, checked, and ready to use.
 
-**Reference:** [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**Reference:** [Circular 71 (page 16 - Section 2.D.2)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### **Description**
 
@@ -151,8 +151,8 @@ Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of o
 #### Calculation
 
 ```text
-= Unauthorised, Irregular, Fruitless and Wasteful Expenditure / Actual Operating Expenditure
-= [Unauthorised, Irregular, Fruitless and Wasteful Expenditure] item codes irregular, fruitless, unauthorised / [Income & Expenditure] item code 4600, Audited Actual
+= (Unauthorised, Irregular, Fruitless and Wasteful Expenditure / Actual Operating Expenditure) * 100
+= ([Unauthorised, Irregular, Fruitless and Wasteful Expenditure] item codes irregular, fruitless, unauthorised / [Income & Expenditure] item code 4600, Audited Actual) * 100
 ```
 
 ### Current ratio
@@ -203,8 +203,8 @@ The percentage of new revenue \(generated within the financial year\) that a mun
 #### Calculation
 
 ```text
-= Collected Revenue / Billed Revenue
-= [Cash Flow] item codes 3010, 3020, 3030, 3040, 3050, 3060, 3070, 3100, Audited Actual / [Income and Expenditure] item code 0200, 0300, 0400, 1000 less item code 2000, Audited Actual
+= (Collected Revenue / Billed Revenue) * 100
+= ([Cash Flow] item codes 3010, 3020, 3030, 3040, 3050, 3060, 3070, 3100, Audited Actual / [Income and Expenditure] item code 0200, 0300, 0400, 1000 less item code 2000, Audited Actual) * 100
 ```
 
 ## Income
