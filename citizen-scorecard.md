@@ -72,6 +72,8 @@ Cash balance at the end of the financial year.
 
 **Reference:** [State of Local Government Finances](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
 
+**Calculation Reference:** [Circular 71](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+
 #### Description
 
 Months of operating expenses can be paid for with the cash available.
