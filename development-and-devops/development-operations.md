@@ -26,3 +26,29 @@ Managed using a [Dokku](https://github.com/dokku/dokku) instance that is handled
 
 Managed using a [Dokku](https://github.com/dokku/dokku) instance that is handled using a Git repository at the following URL: `dokku@munimoney1-hetzner.openup.org.za:munimoney-staging-web`
 
+## Useful commands
+
+### Database dump
+
+```bash
+docker run --rm -v $PWD:/data postgres:11.5 pg_dump -O -c --if-exists $(dokku config:get municipal-finance DATABASE_URL) | gzip > municipal-finance-prod-$(date "+%Y-%m-%d-%H00").sql.gz
+```
+
+### Database dump without Django and auth data
+
+```bash
+docker run --rm -v $PWD:/data postgres:11.5 pg_dump -O -c --if-exists $(dokku config:get municipal-finance DATABASE_URL) -T 'auth_*' -T 'django_*' | gzip > municipal-finance-prod-clean-$(date "+%Y-%m-%d-%H00").sql.gz
+```
+
+### Database dump only Django and auth data
+
+```bash
+docker run --rm -v $PWD:/data postgres:11.5 pg_dump -O -c --if-exists $(dokku config:get municipal-finance DATABASE_URL) -t 'auth_*' -t 'django_*' | gzip > municipal-finance-prod-auth-$(date "+%Y-%m-%d-%H00").sql.gz
+```
+
+### Database import
+
+```bash
+zcat < municipal-finance-prod-XXXX-XX-XX-XXXX.sql.gz | docker-compose run --rm postgres psql postgresql://municipal_finance@postgres/municipal_finance
+```
+

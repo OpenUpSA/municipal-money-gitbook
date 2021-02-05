@@ -54,22 +54,14 @@ standard structured fiscal source
 ## Local Government Database
 
 1. ??Municipality submits to Auditor General??
-
-
-
-1. Municipality submits to Local government Databse
-2. OpenUp Downloads from Local Government Database portal
-3. OpenUp imports to website
+2. Municipality submits to Local government Databse
+3. OpenUp Downloads from Local Government Database portal
+4. OpenUp imports to website
 
 ## National Treasury MFMA Portal
 
 1. ??Municipality submits to Auditor General??
-
-
-
-1. ??Municipality submits to Local government Databse
-2. OpenUp scrapes from mfma.treasury.gov.za
-3. OpenUp imports to website
-
-
+2. ??Municipality submits to Local government Databse
+3. OpenUp scrapes from mfma.treasury.gov.za
+4. OpenUp imports to website
 

@@ -70,7 +70,7 @@ Cash balance at the end of the financial year.
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**References:** [State of Local Government Finances for 16 Oct 2019 (page 10 - Indicator 2)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 (page 7 - Section C.1)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**References:** [State of Local Government Finances for 16 Oct 2019 \(page 10 - Indicator 2\)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 \(page 7 - Section C.1\)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Description
 
@@ -106,7 +106,7 @@ Difference between budgeted operating expenditure and what was actually spent.
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**References:** [Circular 71 (page 20 - Section 3.2)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**References:** [Circular 71 \(page 20 - Section 3.2\)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Description
 
@@ -123,7 +123,7 @@ Difference between budgeted capital expenditure and what was actually spent.
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**Reference:** [State of Local Government Finances for 16 Oct 2019 (page 14 - Indicator 4)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 (page 4 - Section 1.A.3)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**Reference:** [State of Local Government Finances for 16 Oct 2019 \(page 14 - Indicator 4\)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 \(page 4 - Section 1.A.3\)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### **Description**
 
@@ -142,7 +142,7 @@ Spending on Repairs and Maintenance as a percentage of Property, Plant and Equip
 
 **Trigger:** Project Lead indicates that data is uploaded, checked, and ready to use.
 
-**Reference:** [Circular 71 (page 16 - Section 2.D.2)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**Reference:** [Circular 71 \(page 16 - Section 2.D.2\)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### **Description**
 
@@ -159,8 +159,7 @@ Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of o
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**References:** [Circular 71 (page 7 - Section C.2)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx), [State of Local Government Finances (page 24 - Indicator 12)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
-
+**References:** [Circular 71 \(page 7 - Section C.2\)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx), [State of Local Government Finances \(page 24 - Indicator 12\)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
 
 #### Description
 
@@ -177,7 +176,7 @@ The value of a municipality's short-term assets as a multiple of its short-term 
 
 **Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**References:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx), [State of Local Government Finances (page 19 - Indicator 8)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
+**References:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx), [State of Local Government Finances \(page 19 - Indicator 8\)](http://mfma.treasury.gov.za/Media_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
 
 #### Description
 
@@ -194,7 +193,7 @@ The municipality's immediate ability to pay its current liabilities.
 
 **Source:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**References:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx), [Circular 71 (page 5 - SectionB.1)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**References:** [Municipal Budget and Reporting Regulations](http://mfma.treasury.gov.za/RegulationsandGazettes/Municipal%20Budget%20and%20Reporting%20Regulations/Pages/default.aspx), [Circular 71 \(page 5 - SectionB.1\)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Description
 
