@@ -19,6 +19,6 @@
 
 ## Development and DevOps
 
-* [Webflow Notes](development-and-devops/webflow-notes.md)
 * [Development Operations](development-and-devops/development-operations.md)
+* [Exports and changelog](development-and-devops/exports-and-changelog.md)
 
