@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide provides instructions both for updating the various types of data the is made available by the Municipal Money platform, as well as updating the contents of the compiled information for Municipal Profiles listed on the site.
+This guide provides instructions both for updating the various types of data that is made available by the Municipal Money platform, as well as updating the contents of the compiled information for Municipal Profiles listed on the site.
 
 For the purposes of this guide the data that can be managed using the administrative interface is split up into three types:
 
@@ -10,11 +10,11 @@ For the purposes of this guide the data that can be managed using the administra
 * Dimensional data
 * Fiscal data
 
-Updating any of these types of data will immediately affect the data that is available on the platform, but these changes will however not reflect on the Municipal Profiles listed on the site until a re-compilation of the Municipal Profiles is manually triggered, as demonstrated in the 'Compiling Municipal Profiles' section of this guide.
+Updating any of these types of data will immediately affect the data that is available on the platform, however, these changes will not immediately reflect on the Municipal Profiles listed on the site until a re-compilation of the Municipal Profiles is manually triggered, as demonstrated in the 'Compiling Municipal Profiles' section of this guide.
 
 ## Logging in
 
-All the other sections of this guide will assume that you've already logged in to the admin interface using valid credentials with the appropriate rights for managing and updating data. If you don't have the required credentials or rights please contact the administrator.
+All the other sections of this guide will assume that you've already logged in to the admin interface using valid credentials, and that the account attached to these credentials have been assigned the appropriate rights for managing and updating data. If you don't have the required credentials or rights, please contact the administrator.
 
 In order to login navigate to the following URL using your browser of choice: [https://municipalmoney.gov.za/admin](https://municipalmoney.gov.za/admin)
 
@@ -22,7 +22,7 @@ You will then be presented with the following login form where you can enter you
 
 ![](.gitbook/assets/login.png)
 
-After having logged in successfully you will be presented with the home page of the administration site which should look similar to the following.
+After successfully loggin in you will be presented with the home page of the administration site which should look similar to the following.
 
 ![](.gitbook/assets/screenshot-2020-12-18-at-11.17.19.png)
 
@@ -36,7 +36,7 @@ Functionality is provided for managing individual records of the following data:
 
 In order to see a list of the available records for one of these types, we need to click on the appropriate name of the data type listed on the administration home page. Let's use 'Geographies' as an example.
 
-![](.gitbook/assets/screenshot-2020-12-21-at-10.01.17.png)
+![](.gitbook/assets/screenshot-2021-02-22-at-06.00.10.png)
 
 Here we see the 'Geographies' item as it's listed on the home page. Once we click on it we will be presented with a list of the available records.
 
@@ -152,7 +152,7 @@ In order for the data made available by the Municipal Money platform to be displ
 
 To see a list of previous compilations that were initiated, we can click on the appropriate item in on the home page.
 
-![](.gitbook/assets/screenshot-2020-12-22-at-07.54.09.png)
+![](.gitbook/assets/screenshot-2021-02-22-at-05.58.44.png)
 
 Once we've click on the 'Municipality Profile Compilations' item, we will presented with a page where we can see previous compilations and create new ones.
 
