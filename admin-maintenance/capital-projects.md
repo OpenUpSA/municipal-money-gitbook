@@ -6,12 +6,12 @@ description: >-
 
 # Capital Projects
 
-* [Budget phases](http://localhost:8000/admin/infrastructure/budgetphase/)
-* [Expenditures](http://localhost:8000/admin/infrastructure/expenditure/)
-* [Financial years](http://localhost:8000/admin/infrastructure/financialyear/)
-* [Project quarterly spends](http://localhost:8000/admin/infrastructure/projectquarterlyspend/)
-* [Projects](http://localhost:8000/admin/infrastructure/project/)
-* [Quarterly spend files](http://localhost:8000/admin/infrastructure/quarterlyspendfile/)
+* [Budget phases](https://openup.gitbook.io/municipal-money/admin-maintenance/capital-projects#budget-phases)
+* [Expenditures](https://openup.gitbook.io/municipal-money/admin-maintenance/capital-projects#expenditures)
+* [Financial years](https://openup.gitbook.io/municipal-money/admin-maintenance/capital-projects#financial-years)
+* [Project quarterly spends](https://openup.gitbook.io/municipal-money/admin-maintenance/capital-projects#project-quarterly-spends)
+* [Projects](https://openup.gitbook.io/municipal-money/admin-maintenance/capital-projects#projects)
+* [Quarterly spend files](https://openup.gitbook.io/municipal-money/admin-maintenance/capital-projects#quarterly-spend-files)
 
 ## Budget Phases
 
@@ -91,7 +91,15 @@ The file will be processed in the background and will begin to populate the foll
 * Expenditure
 * Project Quarterly Spends.
 
+### View status uploaded Quarterly spend file
 
+You can view the uploaded file under the Django Q \| Succefull task as seen below
+
+![On successful upload ](../.gitbook/assets/successful-upload.jpg)
+
+Any failed uploads can be view under the Django Q \| Failed task as seen below
+
+![Failed file upload](../.gitbook/assets/failed-upload.jpg)
 
 
 
