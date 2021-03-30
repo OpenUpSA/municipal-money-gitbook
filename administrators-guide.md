@@ -46,6 +46,13 @@ Here we see the 'Geographies' item as it's listed on the home page. Once we clic
 
 From the listing screen we have the option of either creating a new record, using the 'ADD GEOGRAPHY' button, or viewing editing an existing record by clicking on one of the listed items.
 
+Staff Contacts
+
+```text
+demarcation_code,role,title,name,office_number,fax_number,email_address
+
+```
+
 ## Managing dimensional data
 
 The administration interface provides functionality for managing the following dimensional data:
