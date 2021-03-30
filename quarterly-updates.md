@@ -1,4 +1,4 @@
-# Quarterly updates
+# Quarterly updates \(legacy\)
 
 This covers how to keep the data up to date. Each quarter, as new data is released, the following needs to be done to update the data served by the API and the Citizen Scorecard. It's best to do this on a test database first and validate the results before updating the production database.
 

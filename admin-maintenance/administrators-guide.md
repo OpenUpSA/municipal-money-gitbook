@@ -22,11 +22,11 @@ In order to login navigate to the following URL using your browser of choice: [h
 
 You will then be presented with the following login form where you can enter your provided username and password.
 
-![](.gitbook/assets/login.png)
+![](../.gitbook/assets/login.png)
 
 After successfully loggin in you will be presented with the home page of the administration site which should look similar to the following.
 
-![](.gitbook/assets/screenshot-2020-12-18-at-11.17.19.png)
+![](../.gitbook/assets/screenshot-2020-12-18-at-11.17.19.png)
 
 ## Managing individual records
 
@@ -38,11 +38,11 @@ Functionality is provided for managing individual records of the following data:
 
 In order to see a list of the available records for one of these types, we need to click on the appropriate name of the data type listed on the administration home page. Let's use 'Geographies' as an example.
 
-![](.gitbook/assets/screenshot-2021-02-22-at-06.00.10.png)
+![](../.gitbook/assets/screenshot-2021-02-22-at-06.00.10.png)
 
 Here we see the 'Geographies' item as it's listed on the home page. Once we click on it we will be presented with a list of the available records.
 
-![](.gitbook/assets/screenshot-2020-12-21-at-10.06.54.png)
+![](../.gitbook/assets/screenshot-2020-12-21-at-10.06.54.png)
 
 From the listing screen we have the option of either creating a new record, using the 'ADD GEOGRAPHY' button, or viewing editing an existing record by clicking on one of the listed items.
 
@@ -71,15 +71,15 @@ This type of data has all the functionality that is available to individual reco
 
 In order to see a list of the available records and options for one of these types, we need to click on the appropriate name of the data type listed on the administration home page. Let's use 'Aged Creditor Items \(v2\)' as an example.
 
-![](.gitbook/assets/screenshot-2020-12-18-at-13.14.21.png)
+![](../.gitbook/assets/screenshot-2020-12-18-at-13.14.21.png)
 
 Here we can see the 'Aged Creditor Items \(v2\)' item as it's listed on the home page. Once we click on it we will be presented with a list of records that is currently stored on the database.
 
-![](.gitbook/assets/screenshot-2020-12-18-at-13.19.16.png)
+![](../.gitbook/assets/screenshot-2020-12-18-at-13.19.16.png)
 
 As with individual records, we can edit and create records of 'Aged Creditor Items \(v2\)' data type from this screen. Since this data will mostly be provided in a file that we would prefer to upload in bulk, we'll look into the import function by clicking the 'IMPORT' button.
 
-![](.gitbook/assets/screenshot-2020-12-21-at-10.36.48.png)
+![](../.gitbook/assets/screenshot-2020-12-21-at-10.36.48.png)
 
 On this page we can select the file containing the data we wish to replace ALL our records with, along with it's format. We are also presented with the fields that are expected for each of the records.
 
@@ -97,7 +97,7 @@ code,label,position_in_return_form,return_form_structure,composition
 
 Once the the selections are made and the 'SUBMIT' button is clicked you will be presented on details of the import you are attempting, and will be asked if you would like to continue with the import.
 
-![](.gitbook/assets/screenshot-2020-12-21-at-10.43.26.png)
+![](../.gitbook/assets/screenshot-2020-12-21-at-10.43.26.png)
 
 ## Updating fiscal data
 
@@ -118,15 +118,15 @@ Unlike the data types mentioned before, these data types don't provide functiona
 
 We can see a list of the updates that have been provided by selecting the appropriate item from the listing on the administration home page. The name of the item would begin with the name of the data type and then be appended with the word 'Updates'. Let's use 'Aged Creditor Facts \(v2\) Updates' as an example.
 
-![](.gitbook/assets/screenshot-2020-12-21-at-11.05.58.png)
+![](../.gitbook/assets/screenshot-2020-12-21-at-11.05.58.png)
 
 Here we can see the 'Aged Creditor Facts \(v2\) Updates' item as it's listed on the home page. Once we click on it we will be presented with a list of of updates that have been applied to the 'Aged Creditor Facts \(v2\)' data in the past.
 
-![](.gitbook/assets/screenshot-2020-12-21-at-11.08.39.png)
+![](../.gitbook/assets/screenshot-2020-12-21-at-11.08.39.png)
 
 If we want to update the 'Aged Creditor Facts \(v2\)' data, we can do so by adding a new 'Update' record by clicking the 'ADD AGED CREDITOR FACTS \(V2\) UPDATE' button on the top right. You will then be presented with a screen where the file containing the update data can be specified.
 
-![](.gitbook/assets/screenshot-2020-12-21-at-14.17.29.png)
+![](../.gitbook/assets/screenshot-2020-12-21-at-14.17.29.png)
 
 The following is an example of a valid update file for the 'Aged Creditor Facts \(v2\)' data:
 
@@ -149,7 +149,7 @@ Once the file is selected and the 'SAVE' button is clicked you will once again b
 Note that saving this new update can take quite a bit of time if the update file size is large. Be sure to give the browser a chance to upload the file, keeping the browser open and not navigating away from the loading page. 
 {% endhint %}
 
-![](.gitbook/assets/screenshot-2020-12-21-at-14.23.39.png)
+![](../.gitbook/assets/screenshot-2020-12-21-at-14.23.39.png)
 
 After the creation of the new update, you should initially see that there is a placeholder value displayed in the place where the amount of deleted and inserted records will be displayed. These values will be populated once the update has completed.
 
@@ -161,19 +161,19 @@ In order for the data made available by the Municipal Money platform to be displ
 
 To see a list of previous compilations that were initiated, we can click on the appropriate item in on the home page.
 
-![](.gitbook/assets/screenshot-2021-02-22-at-05.58.44.png)
+![](../.gitbook/assets/screenshot-2021-02-22-at-05.58.44.png)
 
 Once we've click on the 'Municipality Profile Compilations' item, we will presented with a page where we can see previous compilations and create new ones.
 
-![](.gitbook/assets/screenshot-2020-12-22-at-07.56.26.png)
+![](../.gitbook/assets/screenshot-2020-12-22-at-07.56.26.png)
 
 Here we have a list of previous compilations, ordered by date, and an indication to the users that initiated the compilation and the periods that were targeted as the focus of the compilation. From this page we can make use of the 'ADD MUNICIPALITY PROFILE COMPILATION' button to initiate a new compilation.
 
-![](.gitbook/assets/screenshot-2020-12-22-at-08.00.50.png)
+![](../.gitbook/assets/screenshot-2020-12-22-at-08.00.50.png)
 
 At this point we can indicate the years that we would like to target during the compilation, with defaults provided from the system configurations discussed in the 'System configurations' chapter. Once we're happy with the years that we'd like to target we can initiate the compilation by clicking the 'SAVE' button.
 
-![](.gitbook/assets/screenshot-2020-12-22-at-08.07.23.png)
+![](../.gitbook/assets/screenshot-2020-12-22-at-08.07.23.png)
 
 We should now be redirected back to the page listing all the previous compilations, and our newly created compilation should now be included on the list.
 
@@ -188,17 +188,17 @@ There are various circumstances in which lengthy operations need to run in the b
 
 After initiating either of these actions a task will be started in the background. To view tasks that are currently running in the background we can navigate to the 'Queued tasks' section of the administration interface.
 
-![](.gitbook/assets/screenshot-2020-12-22-at-09.07.29.png)
+![](../.gitbook/assets/screenshot-2020-12-22-at-09.07.29.png)
 
 Here we have the 'Queued tasks' item as its listed on the home page. Clicking on this link should present us with a list of tasks that are currently being processed.
 
-![](.gitbook/assets/screenshot-2020-12-22-at-09.07.04.png)
+![](../.gitbook/assets/screenshot-2020-12-22-at-09.07.04.png)
 
 We can get an idea of the task that is running by looking in the 'NAME' column of the task. In this case we have a 'Municipal Profile Compilation' running.
 
 Tasks that have completed will be removed from this list and will be moved to the 'Successful tasks' section. Navigating to this section from the home page will list all the successful tasks that was completed in the past.
 
-![](.gitbook/assets/screenshot-2020-12-22-at-09.15.40.png)
+![](../.gitbook/assets/screenshot-2020-12-22-at-09.15.40.png)
 
 From this list we can see that the last task that was successfully completed was a 'Aged Creditor Facts \(v2\) update' task.
 
@@ -213,11 +213,11 @@ In the case that there are settings that affect the whole system, they will usua
 * LAST\_OPINION\_YEAR
 * LAST\_UIFW\_YEAR
 
-![](.gitbook/assets/screenshot-2020-12-22-at-09.23.37.png)
+![](../.gitbook/assets/screenshot-2020-12-22-at-09.23.37.png)
 
 Here we see the 'Config' item on the home page. Clicking on it will take us to the 'Config' section of the administrative site.
 
-![](.gitbook/assets/screenshot-2020-12-22-at-09.23.21.png)
+![](../.gitbook/assets/screenshot-2020-12-22-at-09.23.21.png)
 
 On this page we have all the available settings listed along with a description and their current value. Clicking the 'SAVE' button here will apply these settings.
 

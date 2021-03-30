@@ -1,21 +1,17 @@
 # Table of contents
 
 * [Standard Operating Procedure](README.md)
-* [Quarterly updates](quarterly-updates.md)
-
-## Admin Maintenance
-
-* [Capital Projects](admin-maintenance/capital-projects.md)
-* [Household Bills](admin-maintenance/household-bills.md)
-* [Metro Focus](admin-maintenance/metro-focus.md)
-
----
-
+* [Quarterly updates \(legacy\)](quarterly-updates.md)
 * [Citizen Scorecard](citizen-scorecard.md)
 * [Data Sources](data-sources.md)
 * [Resources](resources.md)
-* [Administrator's Guide](administrators-guide.md)
-* [Principles](principles.md)
+
+## Admin Maintenance
+
+* [Administrator's Guide](admin-maintenance/administrators-guide.md)
+* [Principles](admin-maintenance/principles.md)
+* [Capital Projects](admin-maintenance/capital-projects.md)
+* [Household Bills](admin-maintenance/household-bills.md)
 
 ## Development and DevOps
 
