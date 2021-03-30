@@ -46,11 +46,40 @@ Here we see the 'Geographies' item as it's listed on the home page. Once we clic
 
 From the listing screen we have the option of either creating a new record, using the 'ADD GEOGRAPHY' button, or viewing editing an existing record by clicking on one of the listed items.
 
-Staff Contacts
+### Data examples and formats
+
+#### Municipal Staff Contacts
 
 ```text
 demarcation_code,role,title,name,office_number,fax_number,email_address
+CPT,Secretary of Municipal Manager,Ms,Zakeelah Behardien,021 400 1331,086 202 9098,zakeelah.behardien@capetown.gov.za
+CPT,Secretary of Financial Manager,Ms,Tarryn Bell,021 400 5021,021 400 5660,tarryn.bell@capetown.gov.za
+CPT,Secretary of Mayor/Executive Mayor,Ms,Rushdia Walker,021 400 9481,086 201 1851,rushdia.walker@capetown.gov.za
+CPT,Secretary of Deputy Mayor/Executive Mayor,Ms,Karen Haskell,021 400 2963,021 400 3368,Karen.Haskell@capetown.gov.za
+CPT,Secretary of Speaker,Ms,Ilze Rheeder,021 400 2285,021 400 5864,Ilze.Rheeder@capetown.gov.za
 
+```
+
+### Audit opinions
+
+Opinion code to label mapping
+
+```text
+    'Adverse opinion': 'adverse',
+    'Disclaimer of opinion': 'disclaimer',
+    'Qualified': 'qualified',
+    'Unqualified - Emphasis of Matter items': 'unqualified_emphasis_of_matter',
+    'Unqualified - With findings': 'unqualified_emphasis_of_matter',
+    'Unqualified - No findings': 'unqualified',
+    'Outstanding': 'outstanding',
+```
+
+Data example
+
+```text
+demarcation_code,year,opinion_code,opinion_label
+CPT,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+CPT,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
 ```
 
 ## Managing dimensional data
@@ -154,6 +183,97 @@ Note that saving this new update can take quite a bit of time if the update file
 After the creation of the new update, you should initially see that there is a placeholder value displayed in the place where the amount of deleted and inserted records will be displayed. These values will be populated once the update has completed.
 
 Creating a new update starts off a task on the backend that processes the update. Refer to the 'Checking task status' chapter of this guide to find out more about tasks.
+
+### Data examples and formats
+
+#### Aged Creditor Facts \(v2\)
+
+```text
+"DEMARCATIONCODE","YEARPERIOD","ITEM_CDE","L30","L60","L90","L120","L150","L180","L1","G1","CTOTAL"
+"BUF","2020M01","0100",116277379.00,.00,.00,.00,.00,.00,.00,.00,116277379.00
+"BUF","2020M01","0200",19533285.00,.00,.00,.00,.00,.00,.00,.00,19533285.00
+"BUF","2020M01","0300",29734871.00,.00,.00,.00,.00,.00,.00,.00,29734871.00
+```
+
+#### Aged Debtor Facts \(v2\)
+
+```text
+"DEMARCATIONCODE","YEARPERIOD","CUSTOMER_GRP","ITEM_CDE","L30","L60","L90","L120","L150","L180","L1","G1","CTOTAL","BAD","BADI"
+"BUF","2020M01","","1100",.00,.00,.00,.00,.00,.00,.00,.00,.00,.00,.00
+"BUF","2020M01","","1200",40188826.00,20535368.00,14918006.00,11923110.00,11989200.00,9682794.00,48457038.00,245013651.00,402707993.00,.00,-964520.00
+"BUF","2020M01","","1300",125648341.00,32850906.00,9252428.00,5199810.00,4413197.00,4282222.00,15953440.00,42404504.00,240004848.00,.00,.00
+```
+
+#### Capital Expenditure Facts \(v2\)
+
+```text
+"DEMARCATION_CDE","YEARPERIOD","FUNCTION_CDE","CAPITAL_CDE","CAPEX_TYPE","TCOST"
+"CPT","2018PAUD","1110","0280","REPAIR_MNT",1185
+"CPT","2018PAUD","1110","0310","UPGRADING",398286
+"CPT","2018PAUD","1110","1200","UPGRADING",30341
+"CPT","2018PAUD","1110","1430","NEW",22190
+```
+
+#### Cash Flow Facts \(v2\)
+
+```text
+"DEMARCATION_CDE","YEARPERIOD","CFLOW_CDE","TCOST"
+"BUF","2018AUDA","0370",60851775
+"BUF","2018AUDA","0420",1686673980
+"BUF","2018AUDA","0430",1747525755
+"BUF","2019AUDA","0200",-2136761
+```
+
+#### Statement of Financial Position Facts \(v2\)
+
+```text
+"DEMARCATION_CDE","YEARPERIOD","BALANCE_CDE","TCOST"
+"BUF","2018AUDA","0120",165208425
+"BUF","2018AUDA","0130",1657121947
+"BUF","2018AUDA","0140",758703697
+"BUF","2018AUDA","0150",4585413069
+```
+
+#### Grants Facts \(v2\)
+
+```text
+"DEMARCATIONCODE","YEARPERIOD","GRANTTYPE","ACT_OR_BUD"
+"BUF","2020ADJB","0001",
+...
+"BUF","2020ADJB","0006",15870000
+"BUF","2020ADJB","0007",
+...
+"BUF","2020ADJB","EEDG",
+"BUF","2020ADJB","ESG",847431000
+"BUF","2020ADJB","FMG",1000000
+```
+
+#### Income & Expenditure Facts \(v2\)
+
+```text
+"DEMARCATION_CDE","YEARPERIOD","FUNCTION_CDE","INCEXP_CDE","TCOST"
+"BUF","2018AUDA","1110","1600",102157
+"BUF","2018AUDA","1110","2000",55919677
+"BUF","2018AUDA","1110","2100",59473022
+```
+
+#### Repairs & Maintenance Facts \(v2\)
+
+```text
+"DEMARCATION_CDE","YEARPERIOD","CAPITAL_CDE","TCOST"
+"BUF","2018AUDA","5002",508834
+"BUF","2018AUDA","5003",354784727
+"BUF","2018PAUD","5002",508834
+```
+
+#### UIFW Expense Facts
+
+```text
+demarcation_code,year,item_code,item_label,amount
+CPT,2019,unauthorised,Unauthorised Expenditure,
+CPT,2019,irregular,Irregular Expenditure,950370000
+CPT,2019,fruitless,Fruitless and Wasteful Expenditure,19802000
+```
 
 ## Compiling municipal profiles
 
