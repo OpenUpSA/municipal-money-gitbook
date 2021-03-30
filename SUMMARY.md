@@ -8,8 +8,8 @@
 
 ## Admin Maintenance
 
-* [Administrator's Guide](admin-maintenance/administrators-guide.md)
-* [Principles](admin-maintenance/principles.md)
+* [Administrator's Guide](admin-maintenance/administrators-guide/README.md)
+  * [Principles](admin-maintenance/administrators-guide/principles.md)
 * [Capital Projects](admin-maintenance/capital-projects.md)
 * [Household Bills](admin-maintenance/household-bills.md)
 
