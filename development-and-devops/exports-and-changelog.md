@@ -1,10 +1,18 @@
 # Exports and changelog
 
-### 16/02/2021 - Similar Municipalities 
+## 08/04/2021 - Hidden components panel
+
+{% file src="../.gitbook/assets/municipalmoney.webflow-hidden-components-04082021-.zip" caption="Hidden components" %}
+
+#### Fixed:
+
+* Added a `.hidden` class to the `.components` div on the municipality profile page
+
+## 16/02/2021 - Similar Municipalities 
 
 {% file src="../.gitbook/assets/municipalmoney.webflow-similar-municipalities-02162021- \(1\).zip" caption="Similar municipalities" %}
 
-### Changed:
+#### Changed:
 
 #### **Tooltips:**
 
