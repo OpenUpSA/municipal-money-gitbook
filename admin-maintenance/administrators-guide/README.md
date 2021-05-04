@@ -44,7 +44,7 @@ In order to see a list of the available records for one of these types, we need 
 
 Here we see the 'Geographies' item as it's listed on the home page. Once we click on it we will be presented with a list of the available records.
 
-![](../../.gitbook/assets/screenshot-2020-12-21-at-10.06.54.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 From the listing screen we have the option of either creating a new record, using the 'ADD GEOGRAPHY' button, or viewing editing an existing record by clicking on one of the listed items.
 
@@ -82,6 +82,28 @@ Data example
 demarcation_code,year,opinion_code,opinion_label
 CPT,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
 CPT,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+```
+
+## Managing bulk records
+
+Functionality is provided to add and update geography records in bulk. To do this select ‘Geographies’ in the Scorecard section. Then choose import near the top right of the screen.
+
+You should now see a page similar to that shown below. Here you can upload a file containing a list of geographies with any variation of columns shown below, remember to select CSV format.
+
+![](../../.gitbook/assets/image%20%289%29.png)
+
+After submitting the file a page will display pending changes to the data, whereby you may review and accept the changes.
+
+### Data examples and formats
+
+#### Geography data
+
+The only required column is the id. All other columns to be updated are optional
+
+```text
+id,geo_level,geo_code,name,long_name,phone_number
+171,municipality,TSH,City of Tshwane,"City of Tshwane, Gauteng",012 358 7911
+154,municipality,BUF,Buffalo City,"Buffalo City, Eastern Cape",043 705 2000
 ```
 
 ## Managing dimensional data
