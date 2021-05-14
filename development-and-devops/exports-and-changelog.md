@@ -1,5 +1,21 @@
 # Exports and changelog
 
+## 05/14/2021 - Loading state on muni infrastructure
+
+{% file src="../.gitbook/assets/muni-money.webflow-infra-projects-loading-05142021-.zip" caption="Webflow export" %}
+
+![Loading state preview](../.gitbook/assets/image%20%2813%29.png)
+
+![custom classes for various headings](../.gitbook/assets/image%20%2812%29.png)
+
+#### Changes
+
+* Removed all demo data from various fields.
+* only one .breadcrumbs\_\_crumb \(previously labelled "Municipal Infrastructure"\) is shown by default.
+  * .breadcrumbs\_\_crumb.province and .breadcrumbs\_\_crumb.municipality are hidden by default
+* Added .audited-outcome, .full-year-forecast, .budget-year-1, .budget-year-2, .budget-year-3
+* Added .year as a span within the above headings where years should be inserted
+
 ## 08/04/2021 - Hidden components panel
 
 {% file src="../.gitbook/assets/municipalmoney.webflow-hidden-components-04082021-.zip" caption="Hidden components" %}
