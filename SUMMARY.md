@@ -1,24 +1,28 @@
 # Table of contents
 
-* [Standard Operating Procedure](README.md)
-* [Quarterly updates \(legacy\)](quarterly-updates.md)
-* [Citizen Scorecard](citizen-scorecard.md)
-* [Data Sources](data-sources.md)
-* [Resources](resources.md)
+* [Home](README.md)
 
-## Admin Maintenance
+## Data administration
 
-* [Administrator's Guide](admin-maintenance/administrators-guide/README.md)
-  * [Principles](admin-maintenance/administrators-guide/principles.md)
-* [Capital Projects](admin-maintenance/capital-projects.md)
-* [Household Bills](admin-maintenance/household-bills.md)
+* [Administrator's Guide](data-administration/administrators-guide/README.md)
+  * [Principles](data-administration/administrators-guide/principles.md)
+  * [Fiscal data import table structure examples](data-administration/administrators-guide/fiscal-data-import-table-structure-examples.md)
+* [Capital Projects](data-administration/capital-projects.md)
+* [Household Bills](data-administration/household-bills.md)
+
+## Scorecard content
+
+* [Resources](scorecard-content/resources.md)
+* [Data Sources](scorecard-content/data-sources.md)
+* [Citizen Scorecard](scorecard-content/citizen-scorecard.md)
 
 ## Development and DevOps
 
 * [Development Operations](development-and-devops/development-operations.md)
 * [Exports and changelog](development-and-devops/exports-and-changelog.md)
 
----
+## Idea staging area
 
-* [Future tasks](future-tasks.md)
+* [Quarterly updates \(legacy\)](idea-staging-area/quarterly-updates.md)
+* [Potential improvements](idea-staging-area/future-tasks.md)
 

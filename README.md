@@ -1,4 +1,4 @@
-# Standard Operating Procedure
+# Home
 
-see [Quarterly updates](quarterly-updates.md)
+See the [Administrator's Guide](data-administration/administrators-guide/)
 
