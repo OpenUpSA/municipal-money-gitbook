@@ -16,20 +16,6 @@ For the purposes of this guide the data that can be managed using the administra
 Updating any of these types of data will immediately affect the data that is available in the API, however, these changes will not immediately reflect on the Municipal Profiles listed on the site until a re-compilation of the Municipal Profiles is manually triggered, as demonstrated in the [Compiling Municipal Profiles](./#compiling-municipal-profiles) section of this guide.
 {% endhint %}
 
-## Logging in
-
-All the other sections of this guide will assume that you've already logged in to the admin interface using valid credentials, and that the account attached to these credentials have been assigned the appropriate rights for managing and updating data. If you don't have the required credentials or rights, please contact the administrator.
-
-In order to login navigate to the following URL using your browser of choice: [https://municipalmoney.gov.za/admin](https://municipalmoney.gov.za/admin)
-
-You will then be presented with the following login form where you can enter your provided username and password.
-
-![](../../.gitbook/assets/login.png)
-
-After successfully loggin in you will be presented with the home page of the administration site which should look similar to the following.
-
-![](../../.gitbook/assets/screenshot-2020-12-18-at-11.17.19.png)
-
 ## Managing individual records
 
 Functionality is provided for managing individual records of the following data:
