@@ -1,4 +1,4 @@
-# Cube data import table structure examples
+# Fiscal data import table structure examples
 
 #### Aged Creditor Facts \(v2\)
 

@@ -7,7 +7,7 @@
 * [Standard Operating Procedure](data-administration/standard-operating-procedure.md)
 * [Introduction to the admin site](data-administration/introduction-to-the-admin-site.md)
 * [Administrator's Guide](data-administration/administrators-guide/README.md)
-  * [Cube data import table structure examples](data-administration/administrators-guide/fiscal-data-import-table-structure-examples.md)
+  * [Fiscal data import table structure examples](data-administration/administrators-guide/fiscal-data-import-table-structure-examples.md)
 * [Capital Projects](data-administration/capital-projects.md)
 * [Household Bills](data-administration/household-bills.md)
 * [Principles](data-administration/principles.md)
