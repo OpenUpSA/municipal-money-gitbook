@@ -11,6 +11,16 @@ This covers how to keep the data up to date. Each quarter, as new data is releas
 | Quarter 1 - July | Contacts | Profiles, API | Yes |
 | Quarter 1 - July | Latest monthly actuals | API, data explorer | No |
 | Quarter 1 - July | Fiscal data corrections | Profiles, API, data explorer | Yes |
+| Quarter 2 - October | Contacts | Profiles, API | Yes |
+| Quarter 2 - October | Latest monthly actuals | API, data explorer | No |
+| Quarter 2 - October | Fiscal data corrections | Profiles, API, data explorer | Yes |
+| Quarter 2 - October | **Audited Annual data from last financial year** | Profiles, API, data explorer | Yes |
+| Quarter 3 - January | Contacts | Profiles, API | Yes |
+| Quarter 3 - January | Latest monthly actuals | API, data explorer | No |
+| Quarter 3 - January | Fiscal data corrections | Profiles, API, data explorer | Yes |
+| Quarter 4 - April | Contacts | Profiles, API | Yes |
+| Quarter 4 - April | Latest monthly actuals | API, data explorer | No |
+| Quarter 1 - July | Fiscal data corrections | Profiles, API, data explorer | Yes |
 |  |  |  |  |
 
 * Quarter 1 - July
