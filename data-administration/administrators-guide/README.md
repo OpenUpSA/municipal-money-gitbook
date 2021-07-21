@@ -13,7 +13,7 @@ For the purposes of this guide the data that can be managed using the administra
 * Fiscal data
 
 {% hint style="info" %}
-Updating any of these types of data will immediately affect the data that is available in the API, however, these changes will not immediately reflect on the Municipal Profiles listed on the site until a re-compilation of the Municipal Profiles is manually triggered, as demonstrated in the 'Compiling Municipal Profiles' section of this guide.
+Updating any of these types of data will immediately affect the data that is available in the API, however, these changes will not immediately reflect on the Municipal Profiles listed on the site until a re-compilation of the Municipal Profiles is manually triggered, as demonstrated in the [Compiling Municipal Profiles](./#compiling-municipal-profiles) section of this guide.
 {% endhint %}
 
 ## Logging in
