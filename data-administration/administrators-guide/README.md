@@ -206,9 +206,7 @@ Note that saving this new update can take quite a bit of time if the update file
 
 After the creation of the new update, you should initially see that there is a placeholder value displayed in the place where the amount of deleted and inserted records will be displayed. These values will be populated once the update has completed.
 
-Creating a new update starts off a task on the backend that processes the update. Refer to the 'Checking task status' chapter of this guide to find out more about tasks.
-
-### Data examples and formats
+Creating a new update starts off a task on the backend that processes the update. Refer to the 'Checking task status' chapter of this guide to find out more about tasks.Data examples and formats
 
 #### Aged Creditor Facts \(v2\)
 
@@ -298,6 +296,8 @@ CPT,2019,unauthorised,Unauthorised Expenditure,
 CPT,2019,irregular,Irregular Expenditure,950370000
 CPT,2019,fruitless,Fruitless and Wasteful Expenditure,19802000
 ```
+
+{% page-ref page="fiscal-data-import-table-structure-examples.md" %}
 
 ## Compiling municipal profiles
 
