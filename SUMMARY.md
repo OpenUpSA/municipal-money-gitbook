@@ -4,6 +4,7 @@
 
 ## Data administration
 
+* [Standard Operating Procedure](data-administration/standard-operating-procedure.md)
 * [Administrator's Guide](data-administration/administrators-guide/README.md)
   * [Principles](data-administration/administrators-guide/principles.md)
   * [Fiscal data import table structure examples](data-administration/administrators-guide/fiscal-data-import-table-structure-examples.md)
