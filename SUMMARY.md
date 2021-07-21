@@ -12,6 +12,7 @@
   * [Updating municipality data](data-administration/administrators-guide/updating-municipality-data.md)
 * [Capital Projects](data-administration/capital-projects.md)
 * [Household Bills](data-administration/household-bills.md)
+* [Dimension labels](data-administration/dimension-labels.md)
 
 ## Scorecard content
 

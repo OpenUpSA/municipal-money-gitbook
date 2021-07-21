@@ -92,7 +92,7 @@ id,geo_level,geo_code,name,long_name,phone_number
 154,municipality,BUF,Buffalo City,"Buffalo City, Eastern Cape",043 705 2000
 ```
 
-## Managing dimensional data
+## Managing dimensional labels
 
 The administration interface provides functionality for managing the following dimensional data:
 
