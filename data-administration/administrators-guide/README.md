@@ -4,7 +4,7 @@
 
 This guide provides instructions both for updating the various types of data that is made available by the Municipal Money platform, as well as updating the contents of the compiled information for Municipal Profiles listed on the site.
 
-See also the [data principles](principles.md).
+See also the [data principles](../principles.md).
 
 For the purposes of this guide the data that can be managed using the administrative interface is split up into three types:
 
