@@ -9,11 +9,11 @@ This covers how to keep the data up to date. Each quarter, as new data is releas
 | When | What | Where is this visible? | Requires profile rebuild | Requires site date update |
 | :--- | :--- | :--- | :--- | :--- |
 | Quarter 1 - July | Contacts | Profiles, API | [Yes](administrators-guide/#compiling-municipal-profiles) |  |
-| Quarter 1 - July | Latest monthly actuals | API, data explorer | No |  |
+| Quarter 1 - July | Latest monthly actuals \(Q3\) | API, data explorer | No |  |
 | Quarter 1 - July | Fiscal data corrections | Profiles, API, data explorer | [Yes](administrators-guide/#compiling-municipal-profiles) |  |
 | Quarter 1 - July | [Capital projects](capital-projects.md) | Profiles, capital projects section | No |  |
 | Quarter 2 - October | Contacts | Profiles, API | [Yes](administrators-guide/#compiling-municipal-profiles) |  |
-| Quarter 2 - October | Latest monthly actuals | API, data explorer | No |  |
+| Quarter 2 - October | Latest monthly actuals \(Q4\) | API, data explorer | No |  |
 | Quarter 2 - October | Fiscal data corrections | Profiles, API, data explorer | [Yes](administrators-guide/#compiling-municipal-profiles) |  |
 | Quarter 2 - October | Audited Annual data from last financial year | Profiles, API, data explorer | [Yes](administrators-guide/#compiling-municipal-profiles) | Yes |
 | Quarter 2 - October | Capital projects | Profiles, capital projects section | No |  |
