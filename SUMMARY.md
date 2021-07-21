@@ -12,6 +12,7 @@
 * [Household Bills](data-administration/household-bills.md)
 * [Principles](data-administration/principles.md)
 * [Dimension labels](data-administration/dimension-labels.md)
+* [Site date configuration](data-administration/site-date-configuration.md)
 
 ## Scorecard content
 
