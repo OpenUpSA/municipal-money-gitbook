@@ -1,4 +1,8 @@
-# Exports and changelog
+# Webflow exports and changelog
+
+## 22/07/2021 - Fix video thumbnails
+
+{% file src="../.gitbook/assets/municipalmoney.webflow-8-.zip" %}
 
 ## 05/14/2021 - Loading state on muni infrastructure
 
