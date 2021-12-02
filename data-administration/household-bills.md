@@ -12,7 +12,7 @@
 
 This section contains the various budget phases
 
-![Budget Phases](../.gitbook/assets/h_budget.png)
+![Budget Phases](../.gitbook/assets/h\_budget.png)
 
 ### Adding a new budget phase
 
@@ -22,7 +22,7 @@ This section contains the various budget phases
 
 ## Data Set Files
 
-![Adding new household data](../.gitbook/assets/h_dataset_file.png)
+![Adding new household data](../.gitbook/assets/h\_dataset\_file.png)
 
 
 
@@ -30,7 +30,9 @@ This section contains the various budget phases
 
 National treasury will send datasets when there are updates to household totals, the file will look as follows.
 
-{% file src="../.gitbook/assets/household-data-18-mar-2020 \(1\).xlsx" caption="Example household data" %}
+{% file src="../.gitbook/assets/Household data - 18 Mar 2020 (1).xlsx" %}
+Example household data
+{% endfile %}
 
 This file needs to be broken up into 2 files.
 
@@ -39,20 +41,26 @@ This file needs to be broken up into 2 files.
 
 The file needs a bit cleaning before hand to make it easier to import.
 
-Once cleaned the file should look as follows 
+Once cleaned the file should look as follows&#x20;
 
-{% file src="../.gitbook/assets/national\_household\_data.csv" caption="Cleaned Household Data" %}
+{% file src="../.gitbook/assets/national_household_data.csv" %}
+Cleaned Household Data
+{% endfile %}
 
 There is a script called `bin/household_import.py` file which will break up the file into the two needed files.
 
-The split files will look as follows  
+The split files will look as follows\
 
 
-{% file src="../.gitbook/assets/national\_bill\_totals.csv" caption="National Bill Totals" %}
+{% file src="../.gitbook/assets/national_bill_totals.csv" %}
+National Bill Totals
+{% endfile %}
 
-{% file src="../.gitbook/assets/national\_service\_totals.csv" caption="National Service Totals" %}
+{% file src="../.gitbook/assets/national_service_totals.csv" %}
+National Service Totals
+{% endfile %}
 
-Once these files have been generated, they can now be uploaded.  
+Once these files have been generated, they can now be uploaded.\
 
 
 1. Click on ADD DATA SET FILE+
@@ -65,7 +73,7 @@ The files with their data will be uploaded in the background.
 
 ## Financial Years
 
-![Financial Years](../.gitbook/assets/h_finance.png)
+![Financial Years](../.gitbook/assets/h\_finance.png)
 
 ### Adding a new financial year
 
@@ -79,7 +87,7 @@ The files with their data will be uploaded in the background.
 
 ## Household Bill Totals
 
-![](../.gitbook/assets/h_bill_total.png)
+![](../.gitbook/assets/h\_bill\_total.png)
 
 ## Adding new bill totals
 
@@ -87,7 +95,7 @@ Bill totals should not be added manually, see [Data Set Files](household-bills.m
 
 ## Household Service Totals
 
-![](../.gitbook/assets/h_service_total.png)
+![](../.gitbook/assets/h\_service\_total.png)
 
 ### Adding new service totals
 
@@ -95,24 +103,24 @@ Service totals should not be added manually, see [Data Set Files](household-bill
 
 ## Household Classes
 
-![](../.gitbook/assets/h_class.png)
+![](../.gitbook/assets/h\_class.png)
 
 ### Adding a new household Class
 
 1. Click on ADD HOUSEHOLD CLASS+
-2. Add a new class.
+2.  Add a new class.
 
-   * The min and max value determine the threshold for each household class. If the data has values outside this range, it typically means that there are errors in the data. This values ouside the bounds will not be shown. These values have been determined by national treasury
+    * The min and max value determine the threshold for each household class. If the data has values outside this range, it typically means that there are errors in the data. This values ouside the bounds will not be shown. These values have been determined by national treasury
+
 
 3. Click on save.
 
 ## Household Services
 
-![Household Services](../.gitbook/assets/h_service.png)
+![Household Services](../.gitbook/assets/h\_service.png)
 
 ### Adding a new household service
 
 1. Click on ADD HOUSEHOLD SERVICE+
 2. Add a service, the name must be unique.
 3. Click on save.
-

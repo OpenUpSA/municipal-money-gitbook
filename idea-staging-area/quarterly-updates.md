@@ -1,4 +1,4 @@
-# Quarterly updates \(legacy\)
+# Quarterly updates (legacy)
 
 This covers how to keep the data up to date. Each quarter, as new data is released, the following needs to be done to update the data served by the API and the Citizen Scorecard. It's best to do this on a test database first and validate the results before updating the production database.
 
@@ -22,7 +22,7 @@ This covers how to keep the data up to date. Each quarter, as new data is releas
   * Latest monthly actuals
   * Corrections all over
 
-### 
+###
 
 ### Extract CSV datasets from Excel Spreadsheets
 
@@ -35,33 +35,33 @@ Install some additional dependencies:
 Extract CSV datasets from Excel Spreadsheets using the following scripts in `municipal_finance/data_import/`
 
 * audit\_opinions.py
-  * Go to the [local government database](https://lg.treasury.gov.za/iworld/default_prov.htm)
-  * Budget Document Tracking - Reporting &gt; List Audit Opinion
+  * Go to the [local government database](https://lg.treasury.gov.za/iworld/default\_prov.htm)
+  * Budget Document Tracking - Reporting > List Audit Opinion
   * Location Level: Municipality
-  * Financial Year End\(s\): Control+Click the four years up to and including the last audit result available
+  * Financial Year End(s): Control+Click the four years up to and including the last audit result available
   * Sort Options: By Municipality
   * Level of Detail: Summary
   * Demarcation: Current
   * Choose Excel 2000 report format
   * Process Request: The downloaded file has .xls extension but is html - open in libreoffice or excel and save explicitly as .xls again.
 * contact\_details.py
-  * Go to the [local government database](https://lg.treasury.gov.za/iworld/default_prov.htm)
-  * Contacts - Reporting &gt; General Information - Municipalities Individuals
+  * Go to the [local government database](https://lg.treasury.gov.za/iworld/default\_prov.htm)
+  * Contacts - Reporting > General Information - Municipalities Individuals
   * Choose 'Municipality' in the 'Location Level' field.
   * Choose the relevant roles in the 'Column Selection Form' field.
   * Choose 'BY Municipality' in the 'Sort Options' field.
   * Choose Excel 2000 report format
-  * Download report, open in Google Drive, convert to Google Sheets format and save as xlsx \(the website gives HTML in .xls\)
+  * Download report, open in Google Drive, convert to Google Sheets format and save as xlsx (the website gives HTML in .xls)
 * uifw\_expenditure.py
-  * input files like [01. Irregular Expenditures - Master 04 December 2014](http://mfma.treasury.gov.za/Media_Releases/mbi/2014/Documents/G.%20Additional%20information)
+  * input files like [01. Irregular Expenditures - Master 04 December 2014](http://mfma.treasury.gov.za/Media\_Releases/mbi/2014/Documents/G.%20Additional%20information)
 
-### 
+###
 
 ### Scrape the MFMA website for the Audit Report URLs into a CSV file
 
 Using `municipal_finance/data_import/audit_reports.py`
 
-### 
+###
 
 ### Insert/update from CSV files
 
@@ -97,17 +97,17 @@ You might need to allow extra open files with something like `ulimit -n 500000`
 2. Check what changed using `git diff` and commit commit if changes look right.
 3. Run `bin/test-pages.sh` and ensure that all pages return "200 OK"
 
-### 
+###
 
 ### Annual data
 
-Whenever Audited Annual data becomes available \(AUDA financial data and Audit Outcomes\), adjust the years used by `scorecard/profile_data.py` to include the latest financial year available.
+Whenever Audited Annual data becomes available (AUDA financial data and Audit Outcomes), adjust the years used by `scorecard/profile_data.py` to include the latest financial year available.
 
 Audit outcomes will be captured in the months following 1 December following the end of the financial year. Audited figures can start being submitted by municipalities to Treasury from this point. That means new audited annual figures can appear from Q2.
 
 Pre-audit figures are captured in the period 3 Aug to 30 Nov after the end of the financial year.
 
-### 
+###
 
 ### Quarterly data
 
@@ -115,7 +115,7 @@ Indicators using quarterly data automatically use the latest quarter available.
 
 Quarterly Section 71 submissions are available 2 months after the end of the quarter.
 
-### 
+###
 
 ### Validating the data
 
@@ -129,7 +129,7 @@ This shouldn't be exhaustive - when some numbers in each dataset match expected 
 
 Check that the column order in the snapshots match those in the _"upsert"_ scripts. e.g.:
 
-```text
+```
 head -1 2017q2/*
 ```
 
@@ -137,7 +137,7 @@ Quickly get an idea of what was updated in the datasets: compare this snapshot t
 
 e.g. with the command `diff <(sort ../../2016q4/Section\ 71\ Q4\ published\ data/bsheet_2016q4_acrmun.csv) <(sort bsheet_2017q1_acrmun.csv)|less` Search for `<` to find a row that was removed, paging past the period codes that fell out of the update window to some lines where one value was swapped for another. This example shows a value that was swapped from one item code to another, and a second change where a number changed by R1. Check that this change is correctly reflected in the API using the API itself or the table view where possible.
 
-```text
+```
 3951c1901
 < "DC12","2015AUDA","1400",128859696.00
 ---
@@ -158,50 +158,49 @@ Do each of these cursory tests for a small sample of municipalities to sanity-ch
 * Check that the website link works
 * Check that contact details look ok
 * Follow Audit report links on the Scorecard site and check that the link works, and that the opinion in the report matches what is shown on the page. For example, the heading "Basis for Qualified Opinion" seems to be around page 2 or 3 for a _Qualified_ opinion on the page. You can also find the [Audit Reports on the MFMA website](http://mfma.treasury.gov.za/Documents/07.%20Audit%20Reports)
-* Compare Original Budget \(ORGB\) values to [Adopted Budgets on the MFMA website](http://mfma.treasury.gov.za/Documents/03.%20Budget%20Documentation)
+* Compare Original Budget (ORGB) values to [Adopted Budgets on the MFMA website](http://mfma.treasury.gov.za/Documents/03.%20Budget%20Documentation)
 * Grants - Not all of them appear in our conditional grant dataset - compare those that do e.g. _Local Government Financial Management Grant_ - e.g. with `select l.name, f.amount from conditional_grants_facts f, conditional_grants l where f.grant_code = l.code and demarcation_code = 'CPT' and amount_type_code = 'ORGB' and financial_year = 2015 and period_length = 'year' order by l.name;` - If some values are close, e.g. 217,498,000 vs 217,548,000, the data is probably loaded correctly
 * Operating Revenue and expenditure
-* Compare Audited \(AUDA\) values to the [audited financial statements on the MFMA website](http://mfma.treasury.gov.za/Documents/05.%20Annual%20Financial%20Statements)
+* Compare Audited (AUDA) values to the [audited financial statements on the MFMA website](http://mfma.treasury.gov.za/Documents/05.%20Annual%20Financial%20Statements)
   * Use the _consolidated_ financial statements where available for municipalities with multiple entities
   * You can compare some values in the Scorecard site and the rest in the Table View
-  * Debtor \(under Consumer Receivables\) and Creditor age analysis can be found in the AFS
+  * Debtor (under Consumer Receivables) and Creditor age analysis can be found in the AFS
   * Make sure to check unauthorised, irregular, fruitless and wasteful expenditure
-* Compare in-year values to [Section 71 in-year reports](http://mfma.treasury.gov.za/Media_Releases/s71/Pages/default.aspx)
+* Compare in-year values to [Section 71 in-year reports](http://mfma.treasury.gov.za/Media\_Releases/s71/Pages/default.aspx)
   * Use the API or the database for datasets not available in the Table View:
     * e.g. `select l.label, l30_amount from aged_debtor_facts f, aged_debtor_items l where f.item_code = l.code and demarcation_code = 'CPT' and financial_year = 2016 and financial_period = 09 and amount_type_code = 'ACT';`
   * Compare the latest available month of a quarter to the quarter value in the report
 
-## 
+##
 
 ## Upsert Log
 
-### 
+###
 
 ### 2016q4
 
 * Some of the files had amounts ending .00 so to check that simply rounding was ok, I ran `grep -v '\.00' *|egrep -v "(capital|cflow|grants|rm_)"` - the excluded files didn't have .00 endings.
 
-### 
+###
 
 ### 2017q4
 
 * cflow monthly amounts doubled from previous snapshots where they occurred. It turned out this was due to an issue in the query used to generate the snapshot and a new cflow snapshot was supplied.
 
-### 
+###
 
 ### 2018q1
 
 * capital and creditor age had unexpected codes for one KZN muni. Marina said we should filter them out.
 
-### 
+###
 
 ### 2018q3
 
 * The audit opinion label `Unqualified - With findings` should get mapped to `Unqualified - Emphasis of Matter items` - confirmed with Elsabe.
 
-### 
+###
 
 ### 2019-07-09 loading Section 71 Q3 2018-19
 
 e.g. `cat sql/upsert/aged_debtor.sql | docker-compose run --rm postgres psql postgresql://postgres@postgres/municipal_finance`
-

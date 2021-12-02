@@ -9,7 +9,7 @@ Municipal Money is composed of two websites built from the same platform:
 * municipalmoney.gov.za
 * https://municipaldata.treasury.gov.za
 
-![](https://docs.google.com/drawings/d/e/2PACX-1vRGAroRwjlDkgX1VfQ3pFLsPnVFNQV0AJaxLRoXoX0vnkvuZ2QUGOO_dLMPxvdYu9zQQRH80iAVRC1O/pub?w=772&h=426)
+![](https://docs.google.com/drawings/d/e/2PACX-1vRGAroRwjlDkgX1VfQ3pFLsPnVFNQV0AJaxLRoXoX0vnkvuZ2QUGOO\_dLMPxvdYu9zQQRH80iAVRC1O/pub?w=772\&h=426)
 
 ### municipalmoney.gov.za
 
@@ -32,4 +32,3 @@ This site offers
 * Tabular exploration and download of a number of datasets maintained in Municipal Money
 * An OLAP API for fiscal data querying including filtering and aggregation
 * API Documentation
-

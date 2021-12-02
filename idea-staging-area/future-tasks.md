@@ -11,7 +11,6 @@
 ## Improve modularity of municipal profile compilation code
 
 * ApiData object can be reused when compiling profiles
-* Make targeted indicators dynamic for each compilation \(currently hard coded\)
+* Make targeted indicators dynamic for each compilation (currently hard coded)
 * Collect queries required for indicators dynamically
-* Improve testing \(made possible by modularisation\)
-
+* Improve testing (made possible by modularisation)

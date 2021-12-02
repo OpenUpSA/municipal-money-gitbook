@@ -2,15 +2,15 @@
 
 ## Financial data types
 
-Original budget \(ORGB\) - Amount originally budgeted by the municipality
+Original budget (ORGB) - Amount originally budgeted by the municipality
 
-Adjusted budget \(AJDB\) - Amount budgeted after recommended adjustments
+Adjusted budget (AJDB) - Amount budgeted after recommended adjustments
 
-Preliminary outcome \(PAUD\) - Provided to auditors, but not yet processed and confirmed
+Preliminary outcome (PAUD) - Provided to auditors, but not yet processed and confirmed
 
-Audited actual \(AUDA\) - Processed and confirmed by auditors
+Audited actual (AUDA) - Processed and confirmed by auditors
 
-In-year actual \(M01 - M12\) - Provided by municipality, not yet confirmed by auditors
+In-year actual (M01 - M12) - Provided by municipality, not yet confirmed by auditors
 
 ## Census
 
@@ -40,14 +40,14 @@ standard structured fiscal source
 * CSV extracts are \[provided to OpenUp project tehcnical lead via dropbox
 * OpenUp uploads data to website
 
-### Current \(since adoption of mSCOA\)
+### Current (since adoption of mSCOA)
 
 #### Structure
 
 #### Provenance
 
 * ?? muni has some integration to transfer data to treasury?
-* Treasury aggregates data at the A1 schedule level \(but with multiple dimensions\)
+* Treasury aggregates data at the A1 schedule level (but with multiple dimensions)
 * aggregates are provided to OpenUp via DropBox
 * OpenUp uploads to website
 
@@ -64,4 +64,3 @@ standard structured fiscal source
 2. ??Municipality submits to Local government Databse
 3. OpenUp scrapes from mfma.treasury.gov.za
 4. OpenUp imports to website
-

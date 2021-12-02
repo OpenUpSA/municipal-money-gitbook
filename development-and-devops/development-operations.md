@@ -10,11 +10,11 @@
 
 ~~**staging**~~ - Staging is just an environment. We do not batch features into staging and merge staging into master. We just deploy features to the staging environment to preview, and then merge the feature branch into master for release.
 
-**feature-\[card\_number\]-\[description\]** - Tracks work on a feature that is based on the production version of the product.
+**feature-\[card\_number]-\[description]** - Tracks work on a feature that is based on the production version of the product.
 
-**fix-\[card\_number\]-\[description\]** - Tracks work on a bug fix that is based on the production version of the product.
+**fix-\[card\_number]-\[description]** - Tracks work on a bug fix that is based on the production version of the product.
 
-**preview-\[feature-\[feature\]\]** - When multiple feature branches are previewed in the staging environment, create a branch with that combination, and deploy to staging.
+**preview-\[feature-\[feature]]** - When multiple feature branches are previewed in the staging environment, create a branch with that combination, and deploy to staging.
 
 ## Environments
 
@@ -51,4 +51,3 @@ docker run --rm -v $PWD:/data postgres:11.5 pg_dump -O -c --if-exists $(dokku co
 ```bash
 zcat < municipal-finance-prod-XXXX-XX-XX-XXXX.sql.gz | docker-compose run --rm postgres psql postgresql://municipal_finance@postgres/municipal_finance
 ```
-
