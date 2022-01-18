@@ -23,10 +23,10 @@
 ## Development and DevOps
 
 * [Development Operations](development-and-devops/development-operations.md)
-* [Webflow exports and changelog](development-and-devops/exports-and-changelog.md)
+* [Webflow exports and changelog](development-and-devops/exports-and-changelog/README.md)
+  * [January 2022](development-and-devops/exports-and-changelog/january-2022.md)
 
 ## Idea staging area
 
-* [Quarterly updates \(legacy\)](idea-staging-area/quarterly-updates.md)
+* [Quarterly updates (legacy)](idea-staging-area/quarterly-updates.md)
 * [Potential improvements](idea-staging-area/future-tasks.md)
-
