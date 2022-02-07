@@ -1,5 +1,20 @@
 # Webflow exports and changelog
 
+## 02/07/2022 - Site notice
+
+{% file src="../../.gitbook/assets/municipalmoney.webflow (site-notice).zip" %}
+
+![](<../../.gitbook/assets/image (16).png>)
+
+#### Added:
+
+* High prominence `.site-notice` element that site below the `.nav` on all pages
+* The `.site-notice` is `.hidden` by default
+* `.site-notice` contains the following elements which can be adjusted
+  * `.site-notice__row` can be duplicated to add another notice within the same element
+  * `.site-notice__icon` contains a font awesome icon that can be adjusted
+  * `.site-notice__text` can be adjusted&#x20;
+
 ## 22/07/2021 - Fix video thumbnails
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow(8).zip" %}
