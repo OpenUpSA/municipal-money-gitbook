@@ -74,6 +74,8 @@ The annual spend files are used to set the information in the Budget and Expendi
 
 ![](../.gitbook/assets/projectdetails.png)
 
+From the MTREF data each project is created using three identifiers namely the function, project description and project number columns. If all three of these match an existing project the budget values are updated from the upload. If any one of these identifiers do not match an existing project then a new project is created.
+
 ### Adding an annual spend file
 
 To upload or update an annual spend file, select "Add annual spend file" at the top right of the page. You will see a page like that below.&#x20;
