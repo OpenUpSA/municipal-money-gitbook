@@ -1,6 +1,6 @@
 # January 2022
 
-## Date range formula calculations - 01/18/2022
+## Date range formula calculations - 18/01/2022
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (formula-calc-date-ranges - 01182022) (1).zip" %}
 

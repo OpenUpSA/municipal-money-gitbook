@@ -1,6 +1,6 @@
 # Webflow exports and changelog
 
-## 02/07/2022 - Site notice
+## 07/02/2022 - Site notice
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (site-notice).zip" %}
 
@@ -14,6 +14,10 @@
   * `.site-notice__row` can be duplicated to add another notice within the same element
   * `.site-notice__icon` contains a font awesome icon that can be adjusted
   * `.site-notice__text` can be adjusted&#x20;
+
+## 21/01/2022 - Various updates
+
+{% file src="../../.gitbook/assets/muni-money-infra.webflow (various-updates - 01212022).zip" %}
 
 ## 22/07/2021 - Fix video thumbnails
 
