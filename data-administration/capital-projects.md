@@ -6,6 +6,10 @@ description: >-
 
 # Capital Projects
 
+## Walkthrough for uploading expenditures
+
+{% embed url="https://www.youtube.com/watch?v=8ASRvrjZCA4" %}
+
 ## Projects
 
 This section shows a list of all the capital projects.
@@ -127,8 +131,3 @@ You can view the uploaded file under the Django Q | Succesful tasks as seen belo
 Any failed uploads can be viewed under the Django Q | Failed task as seen below
 
 ![](<../.gitbook/assets/Failed Upload (1).JPG>)
-
-## Walkthrough for uploading expenditures
-
-{% embed url="https://www.youtube.com/watch?v=8ASRvrjZCA4" %}
-
