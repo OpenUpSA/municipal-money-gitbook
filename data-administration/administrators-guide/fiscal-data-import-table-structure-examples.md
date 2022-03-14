@@ -1,5 +1,9 @@
 # Fiscal data import table structure examples
 
+{% hint style="info" %}
+_**v2 cube uploads must NOT contain data for financial years before 2019-20**_
+{% endhint %}
+
 #### Aged Creditor Facts (v2)
 
 ```

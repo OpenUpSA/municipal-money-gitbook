@@ -1,5 +1,9 @@
 # Administrator's Guide
 
+{% hint style="info" %}
+_**v2 cube uploads must NOT contain data for financial years before 2019-20**_
+{% endhint %}
+
 ## Overview
 
 This guide provides instructions both for updating the various types of data that is made available by the Municipal Money platform, as well as updating the contents of the compiled information for Municipal Profiles listed on the site.
