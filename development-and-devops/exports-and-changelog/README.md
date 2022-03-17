@@ -1,5 +1,11 @@
 # Webflow exports and changelog
 
+## 15/03/2022 - Dropdown overlap
+
+{% file src="../../.gitbook/assets/muni-money-infra.webflow (overlap-fix).zip" %}
+
+Dropdowns on the capital project filter dropdowns were covered by another element
+
 ## 07/02/2022 - Site notice
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (site-notice).zip" %}
