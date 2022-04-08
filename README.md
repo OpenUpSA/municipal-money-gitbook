@@ -6,8 +6,8 @@ See the [Administrator's Guide](data-administration/administrators-guide/)
 
 Municipal Money is composed of two websites built from the same platform:
 
-* municipalmoney.gov.za
-* https://municipaldata.treasury.gov.za
+* Scorecard site ([municipalmoney.gov.za](https://municipalmoney.gov.za))
+* Data explorer and API ([municipaldata.treasury.gov.za](https://municipaldata.treasury.gov.za))
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vRGAroRwjlDkgX1VfQ3pFLsPnVFNQV0AJaxLRoXoX0vnkvuZ2QUGOO\_dLMPxvdYu9zQQRH80iAVRC1O/pub?w=772\&h=426)
 

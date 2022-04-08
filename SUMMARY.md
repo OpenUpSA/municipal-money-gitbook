@@ -5,6 +5,7 @@
 ## Data administration
 
 * [Standard Operating Procedure](data-administration/standard-operating-procedure.md)
+* [Testing environments](data-administration/testing-environments.md)
 * [Introduction to the admin site](data-administration/introduction-to-the-admin-site.md)
 * [Administrator's Guide](data-administration/administrators-guide/README.md)
   * [Fiscal data import table structure examples](data-administration/administrators-guide/fiscal-data-import-table-structure-examples.md)
