@@ -179,7 +179,12 @@ The value of a municipality's short-term assets as a multiple of its short-term 
 
 ```
 = Current Assets / Current Liabilities
+
+up to financial year 2018-19:
 = [Balance Sheet] item code 2150, Audited Actual / [Balance Sheet] item code 1600, Audited Actual
+
+financial year 2019-20 onwards:
+= [Financial Position v2] item codes 0120, 0130, 0140, 0150, 0160, 0170  / [Financial Position v2] item codes 0330, 0340, 0350, 0360, 0370, Audited Actual
 ```
 
 ### Liquidity ratio
