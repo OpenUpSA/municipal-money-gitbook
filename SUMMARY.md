@@ -9,12 +9,13 @@
 * [Introduction to the admin site](data-administration/introduction-to-the-admin-site.md)
 * [Administrator's Guide](data-administration/administrators-guide/README.md)
   * [Fiscal data import table structure examples](data-administration/administrators-guide/fiscal-data-import-table-structure-examples.md)
+* [Site date configuration](data-administration/site-date-configuration.md)
 * [Capital Projects](data-administration/capital-projects/README.md)
   * [Advanced options](data-administration/capital-projects/advanced-options.md)
 * [Household Bills](data-administration/household-bills.md)
 * [Principles](data-administration/principles.md)
-* [Dimension labels](data-administration/dimension-labels.md)
-* [Site date configuration](data-administration/site-date-configuration.md)
+* [Advanced/occasional maintenance](data-administration/advanced-occasional-maintenance/README.md)
+  * [Managing dimension labels](data-administration/advanced-occasional-maintenance/dimension-labels.md)
 
 ## Scorecard content
 

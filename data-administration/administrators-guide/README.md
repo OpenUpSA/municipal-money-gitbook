@@ -96,51 +96,7 @@ id,geo_level,geo_code,name,long_name,phone_number
 154,municipality,BUF,Buffalo City,"Buffalo City, Eastern Cape",043 705 2000
 ```
 
-## Managing dimensional labels
 
-The administration interface provides functionality for managing the following dimensional data:
-
-* Aged Creditor Items (v2)
-* Aged Debtor Items (v2)
-* Cash Flow Items (v2)
-* Income & Expenditure Items (v2)
-* Capital Types (v2)
-* Financial Position Items (v2)
-* Government Functions (v2)
-* Grant Types (v2)
-* Repairs & Maintenance Items (v2)
-
-This type of data has all the functionality that is available to individual records (create and edit), but is mostly encouraged to be edited in bulk by making use of the import/export functionality.
-
-In order to see a list of the available records and options for one of these types, we need to click on the appropriate name of the data type listed on the administration home page. Let's use 'Aged Creditor Items (v2)' as an example.
-
-![](<../../.gitbook/assets/Screenshot 2020-12-18 at 13.14.21.png>)
-
-Here we can see the 'Aged Creditor Items (v2)' item as it's listed on the home page. Once we click on it we will be presented with a list of records that is currently stored on the database.
-
-![](<../../.gitbook/assets/Screenshot 2020-12-18 at 13.19.16.png>)
-
-As with individual records, we can edit and create records of 'Aged Creditor Items (v2)' data type from this screen. Since this data will mostly be provided in a file that we would prefer to upload in bulk, we'll look into the import function by clicking the 'IMPORT' button.
-
-![](<../../.gitbook/assets/Screenshot 2020-12-21 at 10.36.48.png>)
-
-On this page we can select the file containing the data we wish to replace ALL our records with, along with it's format. We are also presented with the fields that are expected for each of the records.
-
-Here is an example of a CSV file with acceptable data for this data type:
-
-```
-code,label,position_in_return_form,return_form_structure,composition
-0100,Bulk Electricity,1,line_item,
-0200,Bulk Water,2,line_item,
-0300,PAYE deductions,3,line_item,
-0400,VAT (output less input),4,line_item,
-0500,Pensions / Retirement deductions,5,line_item,
-0600,Loan repayments,6,line_item,
-```
-
-Once the the selections are made and the 'SUBMIT' button is clicked you will be presented on details of the import you are attempting, and will be asked if you would like to continue with the import.
-
-![](<../../.gitbook/assets/Screenshot 2020-12-21 at 10.43.26.png>)
 
 ## Updating fiscal data
 
