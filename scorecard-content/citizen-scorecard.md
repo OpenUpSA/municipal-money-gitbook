@@ -215,7 +215,7 @@ The percentage of new revenue (generated within the financial year) that a munic
 = (Collected Revenue / Billed Revenue) * 100
 
 up to financial year 2018-19:
-= ([Cash Flow] item codes 3010, 3020, 3030, 3040, 3050, 3060, 3070, 3100, Audited Actual / [Income and Expenditure] item code 0200, 0300, 0400, 1000 less item code 2000, Audited Actual) * 100
+= ([Cash Flow] item codes 3010, 3030, 3040, 3050, 3060, 3070, 3100, Audited Actual / [Income and Expenditure] item code 0200, 0400, 1000 less item code 2000, Audited Actual) * 100
 
 financial year 2019-20 onwards:
 = ([Cash Flow v2] item codes 0120, 0130, 0280, Audited Actual / [Income and Expenditure v2] item code 0200, 0300, 0400, 0500, 0600, 0800, 0900, 1000, Audited Actual) * 100 
