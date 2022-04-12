@@ -70,7 +70,10 @@ Cash balance at the end of the financial year.
 
 **Sources:** [Fiscal Delivery](data-sources.md#fiscal-delivery)
 
-**References:** [State of Local Government Finances for 16 Oct 2019 (page 10 - Indicator 2)](http://mfma.treasury.gov.za/Media\_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx), [Circular 71 (page 7 - Section C.1)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
+**References:**&#x20;
+
+* [State of Local Government Finances for 16 Oct 2019 (page 10 - Indicator 2)](http://mfma.treasury.gov.za/Media\_Releases/The%20state%20of%20local%20government%20finances/Pages/default.aspx)
+* [Circular 71 (page 7 - Section C.1)](http://mfma.treasury.gov.za/Circulars/Pages/Circular71.aspx)
 
 #### Description
 
@@ -82,7 +85,12 @@ If Cash available at year end is negative, we say Cash Coverage is zero months.
 
 ```
 = Cash available at year end / Operating Expenditure per month
-= [Cash Flow] item code 4200, Audited Actual / ([Income & Expenditure] item code 4600, Annual Audited Actual / 12)
+
+up to financial year 2018-19:
+= [Cash Flow] item code 4200, Audited Actual / ([Income & Expenditure] item code 4600, Audited Actual / 12)
+
+financial year 2019-20 onwards:
+= [Cash Flow v2] item code 0430, Audited Actual / ([Financial Performance] item codes 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, Audited Actual / 12)
 ```
 
 ### Spending of operating budget
