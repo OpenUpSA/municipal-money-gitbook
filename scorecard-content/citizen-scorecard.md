@@ -176,7 +176,12 @@ Unauthorised, Irregular, Fruitless and Wasteful Expenditure as a percentage of o
 
 ```
 = (Unauthorised, Irregular, Fruitless and Wasteful Expenditure / Actual Operating Expenditure) * 100
+
+up to financial year 2018-19:
 = ([Unauthorised, Irregular, Fruitless and Wasteful Expenditure] item codes irregular, fruitless, unauthorised / [Income & Expenditure] item code 4600, Audited Actual) * 100
+
+financial year 2019-20 onwards:
+= ([Unauthorised, Irregular, Fruitless and Wasteful Expenditure] item codes irregular, fruitless, unauthorised / [Income and Expenditure v2] item codes 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, Audited Actual
 ```
 
 ### Current ratio
