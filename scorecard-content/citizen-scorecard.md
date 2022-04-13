@@ -35,7 +35,13 @@ description: >-
 
 **Sources:** [Local Government Database](data-sources.md#local-government-database)
 
-## Evaluative Performance
+## Financial management indicators
+
+The formulae for these indicators were established based on
+
+* The definitions of those indicators in the circulars and other South African local government financial management literature referenced with each indicator
+* [The SQL used by the NT Local Government Database group to calculate these internally](https://docs.google.com/document/d/13a8JWIH2ncaZjp4ntUXDitGPXH\_WVaeqNrwxH87YTFc/edit) (pre-mSOA)
+* Clarification by NT Local Government Database group members on treatment of specific items.
 
 ### Audit outcomes
 
