@@ -69,7 +69,13 @@ Cash balance at the end of the financial year.
 
 ```
 = Cash available at year end
+
+up to financial year 2018-19:
 = [Cash Flow] item code 4200, Audited Actual
+
+financial year 2019-20 onwards:
+= [Cash Flow v2] item code 0430, Audited Actual
+
 ```
 
 ### Cash coverage
