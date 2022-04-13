@@ -135,7 +135,12 @@ Difference between budgeted capital expenditure and what was actually spent.
 
 ```
 = ((Actual Capital Expenditure - Budgeted Capital Expenditure) / Budgeted Capital Expenditure) * 100
+
+up to financial year 2018-19:
 = (([Capital] item code 4100, Total Assets, Audited Actual - [Capital] item code 4100, Total Assets, Adjusted Budget) / [Capital] item code 4100, Total Assets, Adjusted Budget) * 100
+
+financial year 2019-20 onwards:
+= (([Capital v2] capital type code NEW, RENEWAL, UPGRADING, Audited Actual - [Capital v2] capital type code NEW, RENEWAL, UPGRADING Adjusted Budget) / [Capital v2] capital type code NEW, RENEWAL, UPGRADING Adjusted Budget) * 100
 ```
 
 ### Spending on repairs and maintenance
