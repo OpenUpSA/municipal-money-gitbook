@@ -207,7 +207,12 @@ The municipality's immediate ability to pay its current liabilities.
 
 ```
 = (Cash + Call Investment Deposits) / Current Liabilities
+
+up to financial year 2018-19:
 = [Balance Sheet] item codes 1800, 2200, Audited Actual / [Balance Sheet] item code 1600, Audited Actual
+
+financial year 2019-20 onwards:
+ = [Financial Position v2] item codes 0120, 0130, Audited Actual / [Financial Position v2] item codes 0330, 0340, 0350, 0360, 0370, Audited Actual
 ```
 
 ### Current debtors collection rate
