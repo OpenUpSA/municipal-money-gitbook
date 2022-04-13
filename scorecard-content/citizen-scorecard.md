@@ -96,7 +96,7 @@ up to financial year 2018-19:
 = [Cash Flow] item code 4200, Audited Actual / ([Income & Expenditure] item code 4600, Audited Actual / 12)
 
 financial year 2019-20 onwards:
-= [Cash Flow v2] item code 0430, Audited Actual / ([Financial Performance] item codes 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, Audited Actual / 12)
+= [Cash Flow v2] item code 0430, Audited Actual / ([Income and Expenditure v2] item codes 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, Audited Actual / 12)
 ```
 
 ### Spending of operating budget
@@ -116,6 +116,9 @@ Difference between budgeted operating expenditure and what was actually spent.
 
 up to financial year 2018-19:
 = (([Income & Expenditure] item code 4600, Audited Actual - [Income & Expenditure] item code 4600, Adjusted Budget) / [Income & Expenditure] item code 4600, Adjusted Budget) * 100
+
+financial year 2019-20 onwards:
+= (([Income and Expenditure v2] item codes 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, Audited Actual - [Income and Expenditure v2] item codes 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, Adjusted Budget) / [Income and Expenditure v2] item codes 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000,  Adjusted Budget
 ```
 
 ### Spending of capital budget
