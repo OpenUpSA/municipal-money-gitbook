@@ -1,5 +1,9 @@
 # Webflow exports and changelog
 
+## 14/04/2022 - cube version selector for indicator formula headings
+
+{% file src="../../.gitbook/assets/municipalmoney.webflow (22).zip" %}
+
 ## 15/03/2022 - Dropdown overlap
 
 {% file src="../../.gitbook/assets/muni-money-infra.webflow (overlap-fix).zip" %}
