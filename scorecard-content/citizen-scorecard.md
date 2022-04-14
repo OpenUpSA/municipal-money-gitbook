@@ -168,7 +168,7 @@ up to financial year 2018-19:
 = ([Capital] item code 4100, Audited Actual / ([Balance Sheet] item code 1300, Audited Actual + [Balance Sheet] item code 1401, Audited Actual)) * 100
 
 financial year 2019-20 onwards:
-= ([Capital v2] Total, Audited Actual / ([Capital v2] item code 0240, 0220, Audited Actual
+= ([Capital v2] capital type code REPAIR_MNT Total, Audited Actual / ([Capital v2] item code 0240, 0220, Audited Actual
 ```
 
 ### Fruitless and wasteful expenditure
