@@ -26,6 +26,14 @@ Managed using a [Dokku](https://github.com/dokku/dokku) instance that is handled
 
 Managed using a [Dokku](https://github.com/dokku/dokku) instance that is handled using a Git repository at the following URL: `dokku@munimoney1-hetzner.openup.org.za:munimoney-staging-web`
 
+## Environment variables
+
+GOOGLE\_ANALYTICS\_DATA - Google Analytics ID for the data explorer site
+
+GOOGLE\_ANALYTICS\_SCORECARD - Google Analytics ID for the Municipal Money main site&#x20;
+
+NO\_INDEX - Setting this to anything will disable search engine indexing for that environment
+
 ## Useful commands
 
 ### Database dump
