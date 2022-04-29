@@ -69,9 +69,9 @@ Opinion code to label mapping
 Data example
 
 ```
-demarcation_code,year,opinion_code,opinion_label
-CPT,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
-CPT,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+demarcation_code,year,opinion_code,opinion_label,report_url
+CPT,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,http://mfma.treasury.gov.za/Documents/07.%20Audit%20Reports/2018-19/01.%20Metros/CPT%20City%20of%20Cape%20Town
+CPT,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,
 ```
 
 ## Bulk updates
