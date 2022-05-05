@@ -1,4 +1,4 @@
-# Fiscal data import table structure examples
+# Data import table structure
 
 {% hint style="info" %}
 _**v2 cube uploads must NOT contain data for financial years before 2019-20**_

@@ -1,6 +1,6 @@
 # Home
 
-See the [Administrator's Guide](data-administration/administrators-guide/)
+See the [Administrator's Guide](data-administration/administrators-guide.md)
 
 ## Data architecture
 

@@ -4,7 +4,7 @@
 
 All the other sections of this guide will assume that you've already logged in to the admin interface using valid credentials, and that the account attached to these credentials have been assigned the appropriate rights for managing and updating data. If you don't have the required credentials or rights, please contact the administrator.
 
-In order to login navigate to the following URL using your browser of choice: [https://municipalmoney.gov.za/admin](https://municipalmoney.gov.za/admin)​
+In order to login, navigate to the following URL using your browser of choice: [https://municipalmoney.gov.za/admin](https://municipalmoney.gov.za/admin). Remeber to use the correct environment prefix, e.g. [https://sandbox.municipalmoney.gov.za/admin](https://municipalmoney.gov.za/admin) for the sandbox environment.
 
 You will then be presented with the following login form where you can enter your provided username and password.
 

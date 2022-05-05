@@ -1,10 +1,4 @@
----
-description: >-
-  This sections shows informations and features that should not be needed by the
-  average data admin
----
-
-# Advanced options
+# Capital Projects
 
 ## Projects
 
@@ -14,7 +8,7 @@ This section shows a list of all the capital projects.
 
 ### Adding new projects
 
-Projects should generally not be added manually and are automatically populated from budget data uploads. See [Annual Spend Files (MTREF)](advanced-options.md#annual-spend-files-mtref) or [Quarterly Spend Files](./#quarterly-spend-files) on how to create and update budget data and watch [this walkthrough for uploading expenditures](advanced-options.md#undefined).
+Projects should generally not be added manually and are automatically populated from budget data uploads. See [Annual Spend Files (MTREF)](capital-projects.md#annual-spend-files-mtref) or [Quarterly Spend Files](../capital-projects.md#quarterly-spend-files) on how to create and update budget data and watch [this walkthrough for uploading expenditures](capital-projects.md#undefined).
 
 ## Budget Phases
 
@@ -36,7 +30,7 @@ This section contains the budget phase expenditures for the capital projects.
 
 ### Adding a new expenditure
 
-Expenditures should not be added manually. See [Annual Spend Files (MTREF)](advanced-options.md#annual-spend-files-mtref) or [Quarterly Spend Files](./#quarterly-spend-files)
+Expenditures should not be added manually. See [Annual Spend Files (MTREF)](capital-projects.md#annual-spend-files-mtref) or [Quarterly Spend Files](../capital-projects.md#quarterly-spend-files)
 
 ## Project Quarterly Spends
 
@@ -50,4 +44,4 @@ This data is represented by a chart at the bottom of the project details page as
 
 ### Adding a new Quarterly Result
 
-See [Quarterly Spend Files](./#quarterly-spend-files) for how to update the data
+See [Quarterly Spend Files](../capital-projects.md#quarterly-spend-files) for how to update the data

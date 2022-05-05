@@ -14,7 +14,7 @@ Dropdowns on the capital project filter dropdowns were covered by another elemen
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (site-notice).zip" %}
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 #### Added:
 
