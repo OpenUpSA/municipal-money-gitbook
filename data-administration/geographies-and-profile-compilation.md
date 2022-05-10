@@ -24,10 +24,19 @@ Geography data uses an import/export approach to allow for updating geographies 
 
 The geo\_code column is only required to identify which geography to update, all other columns and rows are optional. This can be useful to update certain columns without the need for keeping large files in sync with the database.
 
+#### File containing all data fields
+
 ```
 geo_level,geo_code,name,long_name,square_kms,parent_level,parent_code,province_name,province_code,category,miif_category,population,postal_address_1,postal_address_2,postal_address_3,street_address_1,street_address_2,street_address_3,street_address_4,phone_number,fax_number,url
 municipality,BUF,Buffalo City,"Buffalo City, Eastern Cape",2751.69154949282,province,EC,Eastern Cape,EC,A,A,781026,P O BOX 134,EAST LONDON,5200,Trust Bank Centre,C/O Oxford & North Street,East London,5200,043 705 2000,043 743 8568,http://www.buffalocity.gov.za
 municipality,TSH,City of Tshwane,"City of Tshwane, Gauteng",6310.21760217517,province,GT,Gauteng,GT,A,A,2921488,P O BOX 6338,PRETORIA,0001,Isivuno House,Cnr Lilian Ngoiyi & Madiba Street,Pretoria,0002,012 358 7911,012 358 1112,http://www.tshwane.gov.za
+```
+
+#### File with just an optional fields for phone number
+
+```
+geo_code,phone_number
+BUF,043 705 2000
 ```
 
 ## Compiling municipal profiles <a href="#compiling-municipal-profiles" id="compiling-municipal-profiles"></a>
