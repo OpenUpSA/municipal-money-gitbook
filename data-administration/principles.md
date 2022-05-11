@@ -1,4 +1,4 @@
-# Data Principles
+# Principles
 
 ## Input data formats
 
@@ -12,9 +12,7 @@ The following points combined provide the reasoning for this choice:
 4. Less effort is required for a data supplier to switch to providing data in a simpler format, and doing so would also make the data compatible with more workflows.
 5. A simpler format provides less opportunity for the same data to be stored in varying forms.
 
-Text fields must not have duplicate spaces as this can effect how data points are created or updated e.g. the text used to identify the role of a municipal staff member in the contact details file
-
-CSV files must use the UTF-8 encoding (as opposed to Excel's default cp1250 or Windows-1252). You can [use Notepad to convert to UTF-8](https://www.webtoffee.com/how-to-save-csv-excel-file-as-utf-8-encoded/#save-csv-notepad) since some versions of Excel do not actually save as UTF-8 even when selected in options.
+CSV files must use the UTF-8 encoding (as opposed to Excel's default cp1250). You can [use Notepad to convert to UTF-8](https://www.webtoffee.com/how-to-save-csv-excel-file-as-utf-8-encoded/#save-csv-notepad) since some versions of Excel do not actually save as UTF-8 even when selected in options.
 
 Columns should be ordered as per the examples since some of the import options are based on column order and not column heading.
 

@@ -12,7 +12,9 @@ As shown in the [Standard Operating Procedures](standard-operating-procedure.md)
 
 ### Data examples and formats
 
-Audit opinion file example
+#### Audit opinion file example
+
+report\_url should always start with http:// or https:// in order for the link to work correctly in the municipalities contact details.
 
 ```
 demarcation_code,year,opinion_code,opinion_label,report_url
@@ -20,7 +22,7 @@ CPT,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,h
 CPT,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,
 ```
 
-Reference of opinion label to code mapping
+#### Reference of opinion label to code mapping
 
 ```
     'Adverse opinion': 'adverse',
