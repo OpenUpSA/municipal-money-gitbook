@@ -24,12 +24,13 @@ CPT,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,
 
 #### Reference of opinion label to code mapping
 
+`'Unqualified - With findings': 'unqualified_emphasis_of_matter'` should rather be `'Unqualified - Emphasis of Matter items': 'unqualified_emphasis_of_matter'`
+
 ```
     'Adverse opinion': 'adverse',
     'Disclaimer of opinion': 'disclaimer',
     'Qualified': 'qualified',
     'Unqualified - Emphasis of Matter items': 'unqualified_emphasis_of_matter',
-    'Unqualified - With findings': 'unqualified_emphasis_of_matter',
     'Unqualified - No findings': 'unqualified',
     'Outstanding': 'outstanding',
 ```
