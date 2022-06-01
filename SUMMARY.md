@@ -10,7 +10,7 @@
 * [Administrator's Guide](data-administration/administrators-guide.md)
 * [Site date configuration](data-administration/site-date-configuration.md)
 * [Capital Projects](data-administration/capital-projects.md)
-* [Contact details](data-administration/contact-details.md)
+* [Staff contact details](data-administration/staff-contact-details.md)
 * [Audit opinions and report URLs](data-administration/audit-opinions-and-report-urls.md)
 * [Fiscal Data](data-administration/fiscal-data/README.md)
   * [Data import table structure](data-administration/fiscal-data/data-import-table-structure.md)

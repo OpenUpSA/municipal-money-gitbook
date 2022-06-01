@@ -22,7 +22,7 @@ In case a financial period does not exist is can be added in the following way:
 2. Add a new financial year, make sure the format matches the other financial years.
 3. Click on save.
 
-## Annual Spend Files (MTREF)
+## Annual Spend Files (MTREF) - SA36
 
 This section contains the budget and expenditure data.
 
@@ -48,7 +48,7 @@ Below is an example of an annual spend file
 
 {% file src="../.gitbook/assets/GT.xlsx" %}
 
-## Quarterly Spend Files
+## Quarterly Spend Files - SC36
 
 This section shows how to upload new quarterly data for capital projects
 
