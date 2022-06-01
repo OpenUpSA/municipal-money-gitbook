@@ -1,6 +1,14 @@
-# Contact details
+# Staff contact details
 
 Contact details are found at the top of each municipalities scorecard.
+
+This page deals with updating municipal leadership contact details.
+
+Municipality central contact details shown on the right in the screenshot can be updated using the instructions on the [Geographies and profile compilation](geographies-and-profile-compilation.md) page.
+
+{% content-ref url="geographies-and-profile-compilation.md" %}
+[geographies-and-profile-compilation.md](geographies-and-profile-compilation.md)
+{% endcontent-ref %}
 
 ![](<../.gitbook/assets/image (15).png>)
 

@@ -8,7 +8,7 @@
 * [Testing environments](data-administration/testing-environments.md)
 * [Introduction to the admin site](data-administration/introduction-to-the-admin-site.md)
 * [Administrator's Guide](data-administration/administrators-guide.md)
-* [Site date configuration](data-administration/site-date-configuration.md)
+* [Site dates configuration](data-administration/site-date-configuration.md)
 * [Capital Projects](data-administration/capital-projects.md)
 * [Staff contact details](data-administration/staff-contact-details.md)
 * [Audit opinions and report URLs](data-administration/audit-opinions-and-report-urls.md)

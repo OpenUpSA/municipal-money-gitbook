@@ -22,7 +22,15 @@ Geography data uses an import/export approach to allow for updating geographies 
 
 ### Geography data format
 
-The geo\_code column is only required to identify which geography to update, all other columns and rows are optional. This can be useful to update certain columns without the need for keeping large files in sync with the database.
+The geo\_code column is required to identify the geography to be updated by a given row. All other columns and rows are optional.
+
+{% hint style="info" %}
+**Only include the columns you intend to update.** Including blank columns will overwrite that data.
+{% endhint %}
+
+The import tool shows a list of valid column headers, and offers a selection of import formats. xlsx is probably the easiest to avoid encoding issues.
+
+![](../.gitbook/assets/Screenshot\_2022-06-01\_17-27-48.png)
 
 #### File containing all data fields
 
@@ -38,6 +46,10 @@ municipality,TSH,City of Tshwane,"City of Tshwane, Gauteng",6310.21760217517,pro
 geo_code,phone_number
 BUF,043 705 2000
 ```
+
+The import tool will show a preview of changes to be confirmed before applying them:
+
+![](../.gitbook/assets/Screenshot\_2022-06-01\_17-10-40.png)
 
 ## Compiling municipal profiles <a href="#compiling-municipal-profiles" id="compiling-municipal-profiles"></a>
 
