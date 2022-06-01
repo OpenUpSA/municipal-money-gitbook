@@ -20,6 +20,12 @@ Geography data uses an import/export approach to allow for updating geographies 
 
 ![](<../.gitbook/assets/image (20).png>)
 
+{% hint style="info" %}
+The columns needed to update municipality contact details are
+
+`geo_code, postal_address_1, postal_address_2, postal_address_3, street_address_1, street_address_2, street_address_3, street_address_4, phone_number, fax_number, url`
+{% endhint %}
+
 ### Geography data format
 
 The geo\_code column is required to identify the geography to be updated by a given row. All other columns and rows are optional.
@@ -28,11 +34,15 @@ The geo\_code column is required to identify the geography to be updated by a gi
 **Only include the columns you intend to update.** Including blank columns will overwrite that data.
 {% endhint %}
 
-The import tool shows a list of valid column headers, and offers a selection of import formats. xlsx is probably the easiest to avoid encoding issues.
+The import tool shows a list of valid column headers, and offers a selection of import formats.&#x20;
+
+{% hint style="info" %}
+**xlsx** is probably the easiest to avoid encoding issues.
+{% endhint %}
 
 ![](../.gitbook/assets/Screenshot\_2022-06-01\_17-27-48.png)
 
-#### File containing all data fields
+#### Example CSV containing all data fields
 
 ```
 geo_level,geo_code,name,long_name,square_kms,parent_level,parent_code,province_name,province_code,category,miif_category,population,postal_address_1,postal_address_2,postal_address_3,street_address_1,street_address_2,street_address_3,street_address_4,phone_number,fax_number,url
@@ -40,7 +50,7 @@ municipality,BUF,Buffalo City,"Buffalo City, Eastern Cape",2751.69154949282,prov
 municipality,TSH,City of Tshwane,"City of Tshwane, Gauteng",6310.21760217517,province,GT,Gauteng,GT,A,A,2921488,P O BOX 6338,PRETORIA,0001,Isivuno House,Cnr Lilian Ngoiyi & Madiba Street,Pretoria,0002,012 358 7911,012 358 1112,http://www.tshwane.gov.za
 ```
 
-#### File with just an optional fields for phone number
+#### Example CSV with just an optional fields for phone number
 
 ```
 geo_code,phone_number
