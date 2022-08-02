@@ -24,6 +24,8 @@ _**v2 cube uploads must NOT contain data for financial years before 2019-20**_
 
 #### Capital Expenditure Facts (v2)
 
+e.g. capex\_2020q4\_acrmun.csv
+
 ```
 "DEMARCATION_CDE","YEARPERIOD","FUNCTION_CDE","CAPITAL_CDE","CAPEX_TYPE","TCOST"
 "CPT","2018PAUD","1110","0280","REPAIR_MNT",1185
