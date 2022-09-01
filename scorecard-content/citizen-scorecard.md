@@ -272,10 +272,11 @@ financial year 2019-20 onwards:
 
 up to financial year 2018-19:
 = Own revenue [Income and Expenditure] item codes 0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1700, 1800, Audited Actual
-  Transfers [Income and Expenditure] item codes 
+  Transfers [Income and Expenditure] item codes 3000, 3100, 3200, 3300, 3400, 3600, 3900, 4000, 4100, 4200, 4300, 3500, 3700, 4110, 4400, 4500, 4550, Audited Actual
 
 financial year 2019-20 onwards:
 = Own revenue [Income and Expenditure] item codes 0200, 0300, 0400, 0500, 0600, 0800, 0900, 1000, 1100, 1200, 1300, 1400, 1600, 1700, Audited Actual
+  Transfers [Income and Expenditure] item codes 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, Audited Actual
 ```
 
 ### Local income sources
