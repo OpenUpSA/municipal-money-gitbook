@@ -283,8 +283,7 @@ financial year 2019-20 onwards:
 
 #### Calculation
 
-```
-= Own revenue grouped as follows:
+<pre><code>= Own revenue grouped as follows:
 
 up to financial year 2018-19
 = [Income and expenditure] Audited Actual item codes:
@@ -297,23 +296,29 @@ up to financial year 2018-19
   Agency services: 1500
   Other: 1700, 1800
 
-financial year 2019-20 onwards
-= [Income and expenditure] Audited Actual item codes:
+<strong>financial year 2019-20 onwards
+</strong>= [Income and expenditure] Audited Actual item codes:
   Property rates: 0200
-  Service Charges: 0300, 0400, 0500, 0600
-  Rental income: 0800
+<strong>  Service Charges: 0300, 0400, 0500, 0600
+</strong>  Rental income: 0800
   Interest and investments: 0900, 1000
   Fines: 1200
   Licenses and Permits: 1300
   Agency services: 1400
-  Other: 1600, 1700
-```
+  Other: 1600, 1700</code></pre>
 
 ### Types of transfers
 
 #### Calculation
 
 ```
+= Equitable share, National conditional grants, Provincial transfers
+
+financial year 2019-20 onwards
+= [Grants] grant codes
+  Equitable share: ESG
+  Provincial transfers: 0001 to 0020
+  National conditional grants: Anything else.
 ```
 
 ### Equitable share
