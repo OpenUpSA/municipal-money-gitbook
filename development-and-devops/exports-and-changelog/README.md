@@ -1,5 +1,9 @@
 # Webflow exports and changelog
 
+## 1/09/2022 - tooltip showing below map for infra projects
+
+{% file src="../../.gitbook/assets/muni-money-infra.webflow_(map-overlap-fix).zip" %}
+
 ## 14/04/2022 - cube version selector for indicator formula headings
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (22).zip" %}
