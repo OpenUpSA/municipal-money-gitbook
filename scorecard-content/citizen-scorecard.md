@@ -284,6 +284,29 @@ financial year 2019-20 onwards:
 #### Calculation
 
 ```
+= Own revenue grouped as follows:
+
+up to financial year 2018-19
+= [Income and expenditure] Audited Actual item codes:
+  Property rates: 0200, 0300
+  Service Charges: 0400
+  Rental income: 0700
+  Interest and investments: 0800, 1000, 1100
+  Fines: 1300
+  Licenses and Permits: 1400
+  Agency services: 1500
+  Other: 1700, 1800
+
+financial year 2019-20 onwards
+= [Income and expenditure] Audited Actual item codes:
+  Property rates: 0200
+  Service Charges: 0300, 0400, 0500, 0600
+  Rental income: 0800
+  Interest and investments: 0900, 1000
+  Fines: 1200
+  Licenses and Permits: 1300
+  Agency services: 1400
+  Other: 1600, 1700
 ```
 
 ### Types of transfers
