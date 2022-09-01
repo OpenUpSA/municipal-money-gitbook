@@ -12,9 +12,9 @@ Audited actual (AUDA) - Processed and confirmed by auditors
 
 In-year actual (M01 - M12) - Provided by municipality, not yet confirmed by auditors
 
-## Census
+## Demographics
 
-## Fiscal Delivery
+## Financial Performance
 
 * Cash flow
 * Income & Expenditure

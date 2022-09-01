@@ -263,6 +263,56 @@ financial year 2019-20 onwards:
 
 ## Income
 
+### Where does the municipality get money from?
+
+#### Calculation
+
+```
+= Own revenue, Transfers
+
+up to financial year 2018-19:
+= Own revenue [Income and Expenditure] item codes 0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1700, 1800, Audited Actual
+  Transfers [Income and Expenditure] item codes 
+
+financial year 2019-20 onwards:
+= Own revenue [Income and Expenditure] item codes 0200, 0300, 0400, 0500, 0600, 0800, 0900, 1000, 1100, 1200, 1300, 1400, 1600, 1700, Audited Actual
+```
+
+### Local income sources
+
+#### Calculation
+
+```
+```
+
+### Types of transfers
+
+#### Calculation
+
+```
+```
+
+### Equitable share
+
+#### Calculation
+
+```
+```
+
+### National conditional grants
+
+#### Calculation
+
+```
+```
+
+### Provincial transfers
+
+#### Calculation
+
+```
+```
+
 ## Spending
 
 ### Staff wages and salaries
