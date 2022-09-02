@@ -6,6 +6,8 @@ description: >-
 
 # Capital Projects
 
+Updating capital projects requires updating the display year configuration for CAPITAL\_PROJECT\_SUMMARY\_YEAR before the profile build. See [display year config](fiscal-data/display-year-config.md#last\_opinion\_year) for more details.
+
 ## Walkthrough for uploading expenditures
 
 {% embed url="https://www.youtube.com/watch?v=8ASRvrjZCA4" %}

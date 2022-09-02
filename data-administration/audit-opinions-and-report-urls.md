@@ -1,5 +1,7 @@
 # Audit opinions and report URLs
 
+Updating audit opinions requires updating the display year configuration for LAST\_OPINION\_YEAR before the profile build. See [display year config](fiscal-data/display-year-config.md#last\_opinion\_year) for more details.
+
 Audit opinions can be found near the top of the municipalities scorecard page. Each audit year shows the audit feedback and a link to the report posted by treasury.
 
 ![](<../.gitbook/assets/image (14).png>)

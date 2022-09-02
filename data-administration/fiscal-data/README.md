@@ -11,6 +11,8 @@ description: >-
 _**v2 cube uploads must NOT contain data for financial years before 2019-20**_
 {% endhint %}
 
+Updating fiscal data requires updating the display year configuration for GRANTS\_LATEST\_QUARTER, GRANTS\_LATEST\_YEAR, LAST\_AUDIT\_YEAR and LAST\_UIFW\_YEAR. See [display year config](display-year-config.md#grants\_latest\_quarter) for more details.
+
 ### Local Government Database
 
 The administrative interface provides the option for updating the following fiscal data:

@@ -14,6 +14,7 @@
 * [Audit opinions and report URLs](data-administration/audit-opinions-and-report-urls.md)
 * [Fiscal Data](data-administration/fiscal-data/README.md)
   * [Data import table structure](data-administration/fiscal-data/data-import-table-structure.md)
+  * [Display year config](data-administration/fiscal-data/display-year-config.md)
 * [Geographies and profile compilation](data-administration/geographies-and-profile-compilation.md)
 * [Household Bills](data-administration/household-bills.md)
 * [Data Principles](data-administration/principles.md)
