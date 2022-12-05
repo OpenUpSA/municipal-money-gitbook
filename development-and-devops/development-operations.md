@@ -4,6 +4,17 @@
 
 {% embed url="https://github.com/OpenUpSA/municipal-data" %}
 
+### Deploy previews
+
+We use Heroku to host deploy previews.\
+To create a deploy preview, open the 'muni-money' pipeline on the [Heroku dashboard](https://dashboard.heroku.com/apps) and click 'Create review app' for the relevant pull request.\
+\
+To change between the scorecard and data portal site, we must change the SITE\_ID environment variable with the following steps:
+
+1. Once a review app is created select the app options within Heroku (don't open the hosted site)
+2. Select the settings tab and reveal the 'Config Vars' section
+3. Change the value for SITE\_ID. Currently, 2 is for the scorecard and 3 is for the data portal
+
 ### Branches
 
 **master** - Tracks the production version of the product. Only merge into master if you are ready to deploy it to production right now. If you need to roll back a release, revert the merge commit and deploy the updated master branch.
