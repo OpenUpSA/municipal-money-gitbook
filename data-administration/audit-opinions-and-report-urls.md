@@ -19,8 +19,8 @@ As shown in the [Standard Operating Procedures](standard-operating-procedure.md)
 report\_url should always start with http:// or https:// in order for the link to work correctly in the municipalities contact details.
 
 ```
-demarcation_code,year,opinion_code,opinion_label,report_url
-CPT,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,http://mfma.treasury.gov.za/Documents/07.%20Audit%20Reports/2018-19/01.%20Metros/CPT%20City%20of%20Cape%20Town
+demarcation_code,year,opinion_code,opinion_label,url
+NMA,2020,qualified,Qualified,http://mfma.treasury.gov.za/Documents/07.%20Audit%20Reports/2019-20/01.%20Metros/NMA%20Nelson%20Mandela%20Bay/NMA%20Nelson%20Mandela%20Bay%20Consolidated%20Audit%20report%202019-20.pdf
 CPT,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,
 ```
 
