@@ -18,24 +18,35 @@
 Uploading household data will clear historical data and only display the most recent upload
 {% endhint %}
 
-National Treasury will send datasets when there are updates to household totals. The expected structure is as follows
+National Treasury will upload datasets when there are updates to household totals. The expected structure is as follows
 
-{% file src="../.gitbook/assets/national_bill_totals.csv" %}
+{% file src="../.gitbook/assets/BILL_TOTALS_2020.csv" %}
 National Bill Totals
 {% endfile %}
 
-{% file src="../.gitbook/assets/national_service_totals.csv" %}
+{% file src="../.gitbook/assets/SERVICE_TOTALS_2020.csv" %}
 National Service Totals
 {% endfile %}
 
 Using these files follow the steps below:
 
-1. Click on ADD DATA SET FILE+
-2. Add the split files.
-3. The file type indicates what type of data is in the file.
-4. Click on save.
+1. Ensure the correct financial year exists, if not add it.
+2. On the 'Data set files' page, click on ADD DATA SET FILE+
+3. Find and select the relevant .csv file.
+4. In the dropdown menu select Service Totals or Bill Totals as the data type.
+5. Click on save.
 
-The files with their data will be uploaded in the background.
+The files will be processed in the background.
+
+## Financial Years
+
+![Financial Years](../.gitbook/assets/h\_finance.png)
+
+### Adding a new financial year
+
+1. Click on ADD FINANCIAL YEAR+
+2. Add a new year. Make sure the year matches the format of the previous financial years.
+3. Click on save.
 
 ## Budget Phases
 
@@ -47,16 +58,6 @@ This section contains the various budget phases
 
 1. Click on ADD BUDGET PHASE+
 2. Add a budget phase, it has to be a unique name.
-3. Click on save.
-
-## Financial Years
-
-![Financial Years](../.gitbook/assets/h\_finance.png)
-
-### Adding a new financial year
-
-1. Click on ADD FINANCIAL YEAR+
-2. Add a new year. Make sure the year matches the format of the previous financial years.
 3. Click on save.
 
 ## Household Bill Totals
