@@ -4,6 +4,10 @@
 _**v2 cube uploads must NOT contain data for financial years before 2019-20**_
 {% endhint %}
 
+{% hint style="info" %}
+RAUD amounts are not expected to be in the fiscal data files and will break the upload
+{% endhint %}
+
 #### Aged Creditor Facts (v2)
 
 ```
