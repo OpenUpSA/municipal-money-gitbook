@@ -4,6 +4,10 @@
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (calc-link-faq-12012023).zip" %}
 
+## 3/01/2023 - capital project link
+
+{% file src="../../.gitbook/assets/municipalmoney.webflow_(Infra-projects-nav_03012023-2).zip" %}
+
 ## 1/09/2022 - tooltip showing below map for infra projects
 
 {% file src="../../.gitbook/assets/muni-money-infra.webflow_(map-overlap-fix).zip" %}
