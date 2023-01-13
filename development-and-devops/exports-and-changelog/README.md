@@ -1,5 +1,11 @@
 # Webflow exports and changelog
 
+##
+
+## 13/01/2023 - dynamic infrastructure link mobile
+
+{% file src="../../.gitbook/assets/municipalmoney.webflow.zip" %}
+
 ## 12/01/2023 - calculation link to faq
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (calc-link-faq-12012023).zip" %}
