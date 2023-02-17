@@ -12,7 +12,7 @@ description: >-
 This is used to set the general information and contact details at the top of each scorecard page.\
 
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
 
 ### Updating contact details
 

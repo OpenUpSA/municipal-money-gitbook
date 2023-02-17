@@ -100,7 +100,7 @@ Similar municipalities
 
 #### **Similar municipalities in header:**
 
-![Feature in default state](<../../.gitbook/assets/image (1).png>)
+![Feature in default state](<../../.gitbook/assets/image (1) (1).png>)
 
 ![Muni info structure in default state](<../../.gitbook/assets/image (4).png>)
 

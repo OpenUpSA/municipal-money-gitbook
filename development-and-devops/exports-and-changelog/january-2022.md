@@ -4,7 +4,7 @@
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (formula-calc-date-ranges - 01182022) (1).zip" %}
 
-![Static state of calculations block](<../../.gitbook/assets/image (15) (1).png>)
+![Static state of calculations block](<../../.gitbook/assets/image (15) (1) (1).png>)
 
 Added combo classes to `.indicator-calculation__formula-actual` for targetting the different blocks. These classes are `.is--post-2019-20` and `.is--pre-2018-19.`
 

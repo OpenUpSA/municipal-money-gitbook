@@ -10,7 +10,7 @@ Municipality central contact details shown on the right in the screenshot can be
 [geographies-and-profile-compilation.md](geographies-and-profile-compilation.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 ### Updating contact details
 

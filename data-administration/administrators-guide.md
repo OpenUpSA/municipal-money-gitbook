@@ -44,7 +44,7 @@ Functionality is provided to add and update geography records in bulk. To do thi
 
 You should now see a page similar to that shown below. Here you can upload a file containing a list of geographies with any variation of columns shown below, remember to select CSV format.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 After submitting the file a page will display pending changes to the data, whereby you may review and accept the changes.
 
