@@ -1,5 +1,13 @@
 # February 2023
 
+### 2023/02/17 - Dropdown classes
+
+{% file src="../../.gitbook/assets/municipalmoney.webflow (dropdown-classes).zip" %}
+
+Added classes to dropdown on help centre videos for "language-dropdown" and "size-dropdown"
+
+### Ad
+
 ### 2023/02/17 - Training material section and supporting links
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (training-video-material) (1).zip" %}
