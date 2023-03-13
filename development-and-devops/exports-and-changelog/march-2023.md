@@ -1,5 +1,9 @@
 # March 2023
 
+### 2023/03/13 - Help centre training text
+
+{% file src="../../.gitbook/assets/municipalmoney.webflow (training-section-description).zip" %}
+
 ### 2023/03/10 - Changes to help language and size dropdowns
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (help-video-dropdown-changes).zip" %}
