@@ -1,7 +1,5 @@
 # Webflow exports and changelog
 
-##
-
 ## 13/01/2023 - dynamic infrastructure link mobile
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow.zip" %}
