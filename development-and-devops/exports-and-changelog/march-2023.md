@@ -1,5 +1,13 @@
 # March 2023
 
+### 2023/03/28 - INFRASTRUCTURE PROJECTS button fix&#x20;
+
+{% file src="../../.gitbook/assets/muni-money-infra.webflow (clear-button-map-z-favicon).zip" %}
+
+* Fixed z-depth on map-embed
+* Adjusted clear button styling
+* Added favicon and webclip icons
+
 ### 2023/03/23 - added missing url to "see more videos"&#x20;
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (video-link-url-fix).zip" %}
