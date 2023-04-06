@@ -94,7 +94,7 @@ Similar municipalities
 * `.tooltip__link_text` is to change the default "learn more" text for the link button eg. explore
 * Webflow has an interaction that shows the tooltip on hover of any element with the class `.hover-tooltip` eg. `.muni-type__wrapper.hover-tooltip`
 
-#### ****
+####
 
 #### **Similar municipalities in header:**
 
@@ -114,11 +114,11 @@ Similar municipalities
 * `.page-heading__subtitle_link` is for parent district municipality
 * `.page-heading__geo-parent-3` is for parent province
 
-#### ****
+####
 
 #### **Similar municipalities in indicator:**
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 * `.label.muni-type` is for the municipality type eg. B4 local municipality. It's default text is set to "loading..."
 
