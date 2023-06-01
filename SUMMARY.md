@@ -33,6 +33,7 @@
 
 * [Development Operations](development-and-devops/development-operations.md)
 * [Webflow exports and changelog](development-and-devops/exports-and-changelog/README.md)
+  * [June 2023](development-and-devops/exports-and-changelog/june-2023.md)
   * [April 2023](development-and-devops/exports-and-changelog/april-2023.md)
   * [March 2023](development-and-devops/exports-and-changelog/march-2023.md)
   * [February 2023](development-and-devops/exports-and-changelog/february-2023.md)

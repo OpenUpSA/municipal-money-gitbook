@@ -55,9 +55,17 @@ Dropdowns on the capital project filter dropdowns were covered by another elemen
 Webflow export
 {% endfile %}
 
-![Loading state preview](<../../.gitbook/assets/image (12).png>)
+<div align="left">
 
-![custom classes for various headings](<../../.gitbook/assets/image (13).png>)
+<img src="../../.gitbook/assets/image (12).png" alt="Loading state preview">
+
+</div>
+
+<div align="left">
+
+<img src="../../.gitbook/assets/image (13).png" alt="custom classes for various headings">
+
+</div>
 
 #### Changes
 
@@ -87,7 +95,11 @@ Similar municipalities
 
 #### **Tooltips:**
 
-![](<../../.gitbook/assets/image (8).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (8).png" alt="">
+
+</div>
 
 * `.tooltip__description` is for the copy that describes the word with the tooltip.&#x20;
 * `.tooltip__link` the `<a>` tag should reflect the desired link page&#x20;
@@ -98,9 +110,17 @@ Similar municipalities
 
 #### **Similar municipalities in header:**
 
-![Feature in default state](<../../.gitbook/assets/image (1) (1).png>)
+<div align="left">
 
-![Muni info structure in default state](<../../.gitbook/assets/image (4).png>)
+<img src="../../.gitbook/assets/image (1) (1).png" alt="Feature in default state">
+
+</div>
+
+<div align="left">
+
+<img src="../../.gitbook/assets/image (4).png" alt="Muni info structure in default state">
+
+</div>
 
 * Modified the contents of `.page-heading__muni-info` to include the hover tooltip for muni-type so that we can show information about the types of muni and link to the FAQ "similar-munis" section for more information.
 * By default there is a `.hidden` class on all of the `.page-heading__muni-info` blocks:&#x20;
@@ -108,7 +128,11 @@ Similar municipalities
   * `.page-heading__muni-info--district`
   * `.page-heading__muni-info--metro`
 
-![page-heading\_\_muni-type](<../../.gitbook/assets/image (5).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (5).png" alt="page-heading__muni-type">
+
+</div>
 
 * `.label.dotted-underline.page-heading__muni-type` is for displaying muni type eg. B4 local municipality
 * `.page-heading__subtitle_link` is for parent district municipality
