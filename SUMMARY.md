@@ -32,6 +32,7 @@
 ## Development and DevOps
 
 * [Development Operations](development-and-devops/development-operations.md)
+* [Deploy previews](development-and-devops/deploy-previews.md)
 * [Webflow exports and changelog](development-and-devops/exports-and-changelog/README.md)
   * [June 2023](development-and-devops/exports-and-changelog/june-2023.md)
   * [April 2023](development-and-devops/exports-and-changelog/april-2023.md)

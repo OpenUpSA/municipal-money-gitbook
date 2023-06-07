@@ -35,7 +35,7 @@ I have changed the styling of "dropdown-toggle--grey" back to what it originally
 * Made changes to "dropdown-toggle--grey" to ensure it is more obviously different from a clickable dropdown. Changed pointer to "default" not pointer finger when class is applied.&#x20;
 * Added "pointer-events: none;" to the grey class so that there is no hover or click interaction on disabled dropdowns.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

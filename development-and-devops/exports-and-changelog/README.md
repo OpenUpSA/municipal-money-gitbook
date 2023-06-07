@@ -57,7 +57,7 @@ Webflow export
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (12).png" alt="Loading state preview">
+<img src="../../.gitbook/assets/image (12) (1).png" alt="Loading state preview">
 
 </div>
 
@@ -112,7 +112,7 @@ Similar municipalities
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (1) (1).png" alt="Feature in default state">
+<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="Feature in default state">
 
 </div>
 
