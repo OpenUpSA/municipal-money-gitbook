@@ -6,7 +6,7 @@ description: Using Heroku deploy previews
 
 #### Navigate to the Heroku dashboard and login
 
-Heroku uses 2FA, you will need an invitation to the 2FA beforehand
+Heroku uses 2FA, you will need an invitation to the 2FA beforehand. Login details can be found with Bitwarden
 
 {% embed url="https://dashboard.heroku.com/" %}
 
