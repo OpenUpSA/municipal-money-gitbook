@@ -34,7 +34,7 @@ In order to see a list of the available records for one of these types, we need 
 
 Here we see the 'Geographies' item as it's listed on the home page. Once we click on it we will be presented with a list of the available records.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (23).png>)
 
 From the listing screen we have the option of either creating a new record, using the 'ADD GEOGRAPHY' button, or viewing editing an existing record by clicking on one of the listed items.
 
@@ -44,7 +44,7 @@ Functionality is provided to add and update geography records in bulk. To do thi
 
 You should now see a page similar to that shown below. Here you can upload a file containing a list of geographies with any variation of columns shown below, remember to select CSV format.
 
-![](<../.gitbook/assets/image (11) (1).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 After submitting the file a page will display pending changes to the data, whereby you may review and accept the changes.
 

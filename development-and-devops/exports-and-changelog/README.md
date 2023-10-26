@@ -30,7 +30,7 @@ Dropdowns on the capital project filter dropdowns were covered by another elemen
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (site-notice).zip" %}
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 #### Added:
 
@@ -57,13 +57,13 @@ Webflow export
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (12) (1).png" alt="Loading state preview">
+<img src="../../.gitbook/assets/image (37).png" alt="Loading state preview">
 
 </div>
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (13).png" alt="custom classes for various headings">
+<img src="../../.gitbook/assets/image (14).png" alt="custom classes for various headings">
 
 </div>
 
@@ -87,7 +87,7 @@ Hidden components
 
 ## 16/02/2021 - Similar Municipalities&#x20;
 
-{% file src="../../.gitbook/assets/municipalmoney.webflow (similar-municipalities - 02162021) (1).zip" %}
+{% file src="../../.gitbook/assets/municipalmoney.webflow (similar-municipalities - 02162021).zip" %}
 Similar municipalities
 {% endfile %}
 
@@ -97,7 +97,7 @@ Similar municipalities
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (8).png" alt="">
+<img src="../../.gitbook/assets/image (25).png" alt="">
 
 </div>
 
@@ -112,13 +112,13 @@ Similar municipalities
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="Feature in default state">
+<img src="../../.gitbook/assets/image (26).png" alt="Feature in default state">
 
 </div>
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (4).png" alt="Muni info structure in default state">
+<img src="../../.gitbook/assets/image (8).png" alt="Muni info structure in default state">
 
 </div>
 
@@ -130,7 +130,7 @@ Similar municipalities
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (5).png" alt="page-heading__muni-type">
+<img src="../../.gitbook/assets/image (1).png" alt="page-heading__muni-type">
 
 </div>
 
@@ -142,7 +142,7 @@ Similar municipalities
 
 #### **Similar municipalities in indicator:**
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 * `.label.muni-type` is for the municipality type eg. B4 local municipality. It's default text is set to "loading..."
 

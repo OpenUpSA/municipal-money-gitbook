@@ -71,11 +71,11 @@ Creating a new update starts a task on the backend that processes the update. Re
 
 This can be found as one of the indicators on the municipal scorecard
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (35).png>)
 
 Select the UIFW Expense Facts Updates page in the Admin Dashboard to upload a CSV file of UIFW data.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (30).png>)
 
 #### UIFW data example
 

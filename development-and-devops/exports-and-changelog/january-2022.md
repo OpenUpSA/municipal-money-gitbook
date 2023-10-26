@@ -6,13 +6,13 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (15) (1) (1).png" alt="Static state of calculations block">
+<img src="../../.gitbook/assets/image (4).png" alt="Static state of calculations block">
 
 </div>
 
 Added combo classes to `.indicator-calculation__formula-actual` for targetting the different blocks. These classes are `.is--post-2019-20` and `.is--pre-2018-19.`
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 Changed the styling of these blocks to have a slight grey background so they are more easily identifiable as separate items. Also added headings for each.
 

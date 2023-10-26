@@ -78,11 +78,11 @@ The file will be processed in the background and will begin to populate the foll
 
 You can view the uploaded file under the Django Q | Succesful tasks as seen below
 
-![](<../.gitbook/assets/Successful Upload (1).JPG>)
+![](<../.gitbook/assets/Successful Upload.JPG>)
 
 Any failed uploads can be viewed under the Django Q | Failed task as seen below
 
-![](<../.gitbook/assets/Failed Upload (1).JPG>)
+![](<../.gitbook/assets/Failed Upload.JPG>)
 
 ## Project details page
 

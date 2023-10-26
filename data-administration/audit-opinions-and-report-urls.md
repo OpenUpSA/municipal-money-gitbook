@@ -4,11 +4,11 @@ Updating audit opinions requires updating the display year configuration for LAS
 
 Audit opinions can be found near the top of the municipalities scorecard page. Each audit year shows the audit feedback and a link to the report posted by treasury.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 To update the audit opinions select the Audit Opinion Facts Updates page in the Admin Dashboard to upload a CSV file of audit opinions.
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 As shown in the [Standard Operating Procedures](standard-operating-procedure.md), updating audit opinions requires you to compile municipal profiles, please see the guide at [Compiling Municipal Profiles](administrators-guide.md#compiling-municipal-profiles).
 

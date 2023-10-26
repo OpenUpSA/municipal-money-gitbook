@@ -10,13 +10,13 @@ Municipality central contact details shown on the right in the screenshot can be
 [geographies-and-profile-compilation.md](geographies-and-profile-compilation.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 ### Updating contact details
 
 Select the Municipal Staff Contacts Updates page in the Admin Dashboard to upload a CSV file of contact details.
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 As shown in the [Standard Operating Procedures](standard-operating-procedure.md), updating contact details requires you to compile municipal profiles, please see the guide at [Compiling Municipal Profiles](administrators-guide.md#compiling-municipal-profiles).
 

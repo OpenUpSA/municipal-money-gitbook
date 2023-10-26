@@ -16,13 +16,13 @@ Added classes to dropdown on help centre videos for "language-dropdown" and "siz
 
 #### Mucipality pages
 
-****![](<../../.gitbook/assets/image (7).png>)****
+![](<../../.gitbook/assets/image (28).png>)
 
 Added a download button and see more videos link to each video on the municipal pages. These linkes both point to "/help#informational-videos". This link might need to be added to dynamically once Michael has added the templated videos to the training page.
 
 #### Help centre
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Added a "training" section to the help centre page.&#x20;
 
@@ -34,7 +34,7 @@ Added a templated video block where michael can dynamically add all videos on th
 
 
 
-&#x20;![](<../../.gitbook/assets/image (15).png>)
+&#x20;![](<../../.gitbook/assets/image (31).png>)
 
 Added download button to homepage video
 

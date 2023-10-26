@@ -8,7 +8,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,4 +18,4 @@ You can now use the combo class **.dropdown-link--disabled** to disable dropdown
 
 {% file src="../../.gitbook/assets/municipalmoney.webflow (dropdown-disabled-state).zip" %}
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (32).png>)

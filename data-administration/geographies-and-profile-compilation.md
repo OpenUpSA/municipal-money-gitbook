@@ -12,13 +12,13 @@ description: >-
 This is used to set the general information and contact details at the top of each scorecard page.\
 
 
-![](<../.gitbook/assets/image (24) (1).png>)
+![](<../.gitbook/assets/image (34).png>)
 
 ### Updating contact details
 
 Geography data uses an import/export approach to allow for updating geographies individually or in bulk.  The options shown below can be used to select the file and format to import or export.
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (21).png>)
 
 {% hint style="info" %}
 The columns needed to update municipality contact details are
