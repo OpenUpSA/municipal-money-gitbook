@@ -22,6 +22,7 @@
   * [Geographies](data-administration/advanced-occasional-maintenance/geographies.md)
   * [Managing dimension labels](data-administration/advanced-occasional-maintenance/dimension-labels.md)
   * [Capital Projects](data-administration/advanced-occasional-maintenance/capital-projects.md)
+  * [Household Bills](data-administration/advanced-occasional-maintenance/household-bills.md)
 
 ## Scorecard content
 
