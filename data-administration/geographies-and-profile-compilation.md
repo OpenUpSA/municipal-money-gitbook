@@ -63,7 +63,7 @@ The import tool will show a preview of changes to be confirmed before applying t
 
 ## Compiling municipal profiles <a href="#compiling-municipal-profiles" id="compiling-municipal-profiles"></a>
 
-In order for the data made available by the Municipal Money platform to be displayed on the Municipal Profiles displayed on the site, a 'Municipal Profile Compilation' has to be initiated.
+This step is needed once a full set time performance data has been uploaded in order to compile the changes and publish them on the municipal profiles.
 
 To see a list of previous compilations that were initiated, we can click on the appropriate item in on the home page.
 
