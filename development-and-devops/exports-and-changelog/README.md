@@ -130,7 +130,7 @@ Similar municipalities
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (1).png" alt="page-heading__muni-type">
+<img src="../../.gitbook/assets/image (1) (1).png" alt="page-heading__muni-type">
 
 </div>
 

@@ -8,7 +8,7 @@ Audit opinions can be found near the top of the municipalities scorecard page. E
 
 To update the audit opinions select the Audit Opinion Facts Updates page in the Admin Dashboard to upload a CSV file of audit opinions.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 As shown in the [Standard Operating Procedures](standard-operating-procedure.md), updating audit opinions requires you to compile municipal profiles, please see the guide at [Compiling Municipal Profiles](administrators-guide.md#compiling-municipal-profiles).
 
