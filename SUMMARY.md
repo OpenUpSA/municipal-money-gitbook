@@ -27,7 +27,6 @@
 
 ## Scorecard content
 
-* [Resources](scorecard-content/resources.md)
 * [Data Sources](scorecard-content/data-sources.md)
 * [Citizen Scorecard](scorecard-content/citizen-scorecard.md)
 
@@ -51,4 +50,3 @@
 ## Idea staging area
 
 * [Quarterly updates (legacy)](idea-staging-area/quarterly-updates.md)
-* [Potential improvements](idea-staging-area/future-tasks.md)

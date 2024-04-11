@@ -31,11 +31,15 @@ To change between the scorecard and data portal site, we must change the SITE\_I
 
 ### Production
 
-Managed using a [Dokku](https://github.com/dokku/dokku) instance that is handled using a Git repository at the following URL: `dokku@dokku9.code4sa.org:municipal-finance`
+Managed using a [Dokku](https://github.com/dokku/dokku) instance that is handled using a Git repository at the following URL:&#x20;
+
+`dokku@dokku11.openup.org.za:munimoney-prod-web`
 
 ### Staging
 
-Managed using a [Dokku](https://github.com/dokku/dokku) instance that is handled using a Git repository at the following URL: `dokku@munimoney1-hetzner.openup.org.za:munimoney-staging-web`
+Managed using a [Dokku](https://github.com/dokku/dokku) instance that is handled using a Git repository at the following URL:
+
+`dokku@dokku11.openup.org.za:munimoney-staging-web`
 
 ## Environment variables
 
