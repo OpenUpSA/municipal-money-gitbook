@@ -27,8 +27,7 @@
 
 ## Scorecard content
 
-* [Data Sources](scorecard-content/data-sources.md)
-* [Citizen Scorecard](scorecard-content/citizen-scorecard.md)
+* [Data Types](scorecard-content/data-sources.md)
 
 ## Development and DevOps
 
@@ -46,7 +45,3 @@
   * [March 2023](development-and-devops/exports-and-changelog/march-2023.md)
   * [February 2023](development-and-devops/exports-and-changelog/february-2023.md)
   * [January 2022](development-and-devops/exports-and-changelog/january-2022.md)
-
-## Idea staging area
-
-* [Quarterly updates (legacy)](idea-staging-area/quarterly-updates.md)
