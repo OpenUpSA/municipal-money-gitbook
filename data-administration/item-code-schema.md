@@ -33,4 +33,11 @@ Below is a video of the whole process:
 
 ## Dataset example
 
+Important aspects of the file:
+
+* Sheets must be named the same as the schedule sheet (A4, A6, A7, SA34A)
+* &#x20;There are three imprtant data points the schedule sheet, the item code and the code description
+* Columns must match the position and order as shown below
+* There must be no duplicate codes
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
